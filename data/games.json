@@ -676,6 +676,41 @@
   "vibegamer_url": "https://vibegamer.io/game/pixel-game-tycoon"
  },
  {
+  "slug": "jelly-sub-the-great-dam-squeeze",
+  "name": "Jelly Sub: The Great Dam Squeeze",
+  "headline": "One enormous submarine, one very small hole",
+  "url": "https://submarinejelly.metalturtle.net/",
+  "maker_name": "metalturtle",
+  "maker_handle": "metalturtle297",
+  "made_with": [],
+  "tags": [
+   "Physics",
+   "3D",
+   "Puzzle"
+  ],
+  "score": 8.8,
+  "released": "2026-11-23T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/jelly-sub-the-great-dam-squeeze"
+ },
+ {
+  "slug": "boom-arena",
+  "name": "Boom Arena",
+  "headline": "Ten minutes to rule the arena",
+  "url": "https://npc-jail.pages.dev/game/boom-arena",
+  "maker_name": "Ren Azure",
+  "maker_handle": "RenAzure",
+  "made_with": [],
+  "tags": [
+   "FPS",
+   "Shooter",
+   "Multiplayer",
+   "3D"
+  ],
+  "score": 8.9,
+  "released": "2026-11-23T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/boom-arena"
+ },
+ {
   "slug": "mtb",
   "name": "سراشیبیMTB: خط سقوط",
   "headline": "این بازی در مورد سراشیبی است و از سخره ها عبور می کنند و انشاعلاه که شما خوشتون بیاد با تشکر",
@@ -918,6 +953,42 @@
   "score": 7.9,
   "released": "2026-11-22T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/sky-ace"
+ },
+ {
+  "slug": "lumi-run",
+  "name": "Lumi Run",
+  "headline": "Hop over shrimp and run up a bubble tea score",
+  "url": "https://baby-lumi.vercel.app/",
+  "maker_name": "dodi marie",
+  "maker_handle": "cupdooodles_",
+  "made_with": [],
+  "tags": [
+   "Runner",
+   "Arcade",
+   "Retro",
+   "Mobile-friendly"
+  ],
+  "score": 8.6,
+  "released": "2026-11-22T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/lumi-run"
+ },
+ {
+  "slug": "grow-up-with-lenamiu",
+  "name": "grow up with lenamiu",
+  "headline": "A game of Snake played with a birthday photo album",
+  "url": "https://hbd-lenamiu.vercel.app/",
+  "maker_name": "dodi marie",
+  "maker_handle": "cupdooodles_",
+  "made_with": [],
+  "tags": [
+   "Arcade",
+   "Cosy",
+   "Retro",
+   "2D"
+  ],
+  "score": 8.2,
+  "released": "2026-11-22T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/grow-up-with-lenamiu"
  },
  {
   "slug": "thin-film",
