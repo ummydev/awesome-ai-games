@@ -711,6 +711,23 @@
   "vibegamer_url": "https://vibegamer.io/game/boom-arena"
  },
  {
+  "slug": "dial-up-pong",
+  "name": "Dial-Up Pong",
+  "headline": "One ball, two phones and a dial-up chirp",
+  "url": "https://www.siddubey.com/dialup/",
+  "maker_name": "Sid",
+  "maker_handle": "sidcodes",
+  "made_with": [],
+  "tags": [
+   "Arcade",
+   "Sports",
+   "Retro"
+  ],
+  "score": null,
+  "released": "2026-11-22T23:00:44+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/dial-up-pong"
+ },
+ {
   "slug": "mtb",
   "name": "سراشیبیMTB: خط سقوط",
   "headline": "این بازی در مورد سراشیبی است و از سخره ها عبور می کنند و انشاعلاه که شما خوشتون بیاد با تشکر",
