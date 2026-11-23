@@ -1,5 +1,22 @@
 [
  {
+  "slug": "sillage",
+  "name": "Sillage",
+  "headline": "Boost through the bends at Zenith Station",
+  "url": "https://www.aigameshare.com/games/sillage",
+  "maker_name": "DEVOFFICAlsillage",
+  "maker_handle": null,
+  "made_with": [],
+  "tags": [
+   "Racing",
+   "3D",
+   "Driving"
+  ],
+  "score": 8.2,
+  "released": "2026-11-24T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/sillage"
+ },
+ {
   "slug": "gta7-2",
   "name": "gta7",
   "headline": "gta7: a free browser game you can play online.",
@@ -4403,6 +4420,23 @@
   "score": 7.9,
   "released": "2026-11-10T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/sunshine-golf"
+ },
+ {
+  "slug": "thimble-knights",
+  "name": "THIMBLE KNIGHTS",
+  "headline": "Two bridges, four cards and a garden to defend",
+  "url": "https://www.aigameshare.com/games/animal-card-battle-game",
+  "maker_name": "nilni",
+  "maker_handle": null,
+  "made_with": [],
+  "tags": [
+   "Strategy",
+   "Card game",
+   "RTS"
+  ],
+  "score": 8.4,
+  "released": "2026-11-10T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/thimble-knights"
  },
  {
   "slug": "saltfire",
