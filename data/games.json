@@ -1,18 +1,24 @@
 [
  {
-  "slug": "mtb",
-  "name": "سراشیبیMTB: خط سقوط",
-  "headline": "این بازی در مورد سراشیبی است و از سخره ها عبور می کنند و انشاعلاه که شما خوشتون بیاد با تشکر",
-  "url": "https://بازار",
-  "maker_name": null,
-  "maker_handle": null,
-  "made_with": [],
-  "tags": [
-   "Simulation"
+  "slug": "sumi-gai",
+  "name": "SUMI GAI",
+  "headline": "Solve a murder among the 16 bars of Shinjuku’s Golden Gai.",
+  "url": "https://sumi-gai.vercel.app/",
+  "maker_name": "Justine Moore",
+  "maker_handle": "venturetwins",
+  "made_with": [
+   "Gemini 4 Neon",
+   "Antigravity",
+   "Three.js"
   ],
-  "score": null,
-  "released": "2026-11-22T22:44:42.183+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/mtb"
+  "tags": [
+   "Adventure",
+   "Puzzle",
+   "Story"
+  ],
+  "score": 8.3,
+  "released": "2026-11-22T18:18:22.267+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/sumi-gai"
  },
  {
   "slug": "save-sokcho",
@@ -30,56 +36,6 @@
   "score": null,
   "released": "2026-11-22T17:27:54.274+00:00",
   "vibegamer_url": "https://vibegamer.io/game/save-sokcho"
- },
- {
-  "slug": "the-flash-speed-force-2",
-  "name": "The flash speed force",
-  "headline": "The Flash: Speed of Central City Become the fastest hero in Central City!",
-  "url": "https://yourgame.dev",
-  "maker_name": null,
-  "maker_handle": null,
-  "made_with": [],
-  "tags": [
-   "Adventure",
-   "Action",
-   "Open world"
-  ],
-  "score": null,
-  "released": "2026-11-22T14:03:13.173+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/the-flash-speed-force-2"
- },
- {
-  "slug": "the-flash-speed-force",
-  "name": "The flash speed force",
-  "headline": "The Flash: Speed of Central City Become the fastest hero in Central City!",
-  "url": "https://flash-speedster-game.com",
-  "maker_name": null,
-  "maker_handle": null,
-  "made_with": [],
-  "tags": [
-   "Adventure",
-   "Action",
-   "Open world"
-  ],
-  "score": null,
-  "released": "2026-11-22T14:00:38.43+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/the-flash-speed-force"
- },
- {
-  "slug": "grand-thief-auto-7",
-  "name": "GRAND THIEF AUTO 7",
-  "headline": "Gta 7",
-  "url": "https://gta7xxlionxx",
-  "maker_name": null,
-  "maker_handle": null,
-  "made_with": [],
-  "tags": [
-   "Action",
-   "Simulation"
-  ],
-  "score": null,
-  "released": "2026-11-22T13:24:53.758+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/grand-thief-auto-7"
  },
  {
   "slug": "fear-euphoria",
@@ -113,6 +69,27 @@
   "score": 7,
   "released": "2026-11-22T03:05:24.644+00:00",
   "vibegamer_url": "https://vibegamer.io/game/football-krillion"
+ },
+ {
+  "slug": "the-astrolabe-chamber",
+  "name": "The Astrolabe Chamber",
+  "headline": "Unlock the door of a Victorian observatory before midnight.",
+  "url": "https://www.jaclynkonzelmann.com/side-projects/astrolabe-chamber/",
+  "maker_name": "Jaclyn Konzelmann",
+  "maker_handle": "jacalulu",
+  "made_with": [
+   "Gemini 4 Neon",
+   "Antigravity",
+   "Three.js"
+  ],
+  "tags": [
+   "Puzzle",
+   "3D",
+   "Adventure"
+  ],
+  "score": 8.4,
+  "released": "2026-11-22T02:15:31.135+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/the-astrolabe-chamber"
  },
  {
   "slug": "thin-film",
@@ -243,6 +220,26 @@
   "score": 7,
   "released": "2026-11-21T20:05:42.985+00:00",
   "vibegamer_url": "https://vibegamer.io/game/walmart-csgo2"
+ },
+ {
+  "slug": "horizon-run",
+  "name": "Horizon Run",
+  "headline": "Drive a classic 911 from the waterfront to Porto Aurelia’s coastal pass.",
+  "url": "https://horizon-run.rubenssoto2005.chatgpt.site/",
+  "maker_name": "Rubens Soto",
+  "maker_handle": "rubenssoto_ai",
+  "made_with": [
+   "GPT-6.2 Astra",
+   "Claude Opus 5.5"
+  ],
+  "tags": [
+   "Driving",
+   "Racing",
+   "3D"
+  ],
+  "score": 7.8,
+  "released": "2026-11-21T17:09:30.404+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/horizon-run"
  },
  {
   "slug": "getsumen-express",
@@ -382,6 +379,27 @@
   "vibegamer_url": "https://vibegamer.io/game/neon-canyon-run-gpt-6-2-astra"
  },
  {
+  "slug": "atlantis",
+  "name": "Atlantis",
+  "headline": "Fly over the canals and crystal towers of a city built from code.",
+  "url": "https://noniv.github.io/atlantis/",
+  "maker_name": "Noniv",
+  "maker_handle": null,
+  "made_with": [
+   "Claude Fable 5.2",
+   "Claude Opus 5.5",
+   "Claude Code"
+  ],
+  "tags": [
+   "Flight",
+   "Open world",
+   "Sandbox"
+  ],
+  "score": 8.3,
+  "released": "2026-11-21T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/atlantis"
+ },
+ {
   "slug": "planebench-flight-simulator",
   "name": "PlaneBench Flight Simulator",
   "headline": "The flight simulator Thinking Machines' Inkling 2 Mini built offline on a MacBook Pro, mid-flight, in a few minutes: fly over procedural hills and sea.",
@@ -504,6 +522,45 @@
   "score": 5.6,
   "released": "2026-11-20T04:14:09.634+00:00",
   "vibegamer_url": "https://vibegamer.io/game/flickms"
+ },
+ {
+  "slug": "snakube",
+  "name": "Snakube",
+  "headline": "Play Snake around the edges of a cube.",
+  "url": "https://playgama.ai/play/lszgul636dzvip",
+  "maker_name": "GOMIGAME",
+  "maker_handle": null,
+  "made_with": [
+   "Claude Pro"
+  ],
+  "tags": [
+   "Arcade",
+   "3D",
+   "Cosy"
+  ],
+  "score": 7.8,
+  "released": "2026-11-20T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/snakube"
+ },
+ {
+  "slug": "chasm",
+  "name": "Chasm",
+  "headline": "Guide a knight through a torchlit WebGPU dungeon.",
+  "url": "https://chasm.layero.app/",
+  "maker_name": "dpsmkr7",
+  "maker_handle": null,
+  "made_with": [
+   "Claude Opus 5.5",
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "RPG",
+   "Adventure",
+   "3D"
+  ],
+  "score": 7.9,
+  "released": "2026-11-20T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/chasm"
  },
  {
   "slug": "neon-scramble",
@@ -1222,6 +1279,45 @@
   "score": 7.3,
   "released": "2026-11-15T03:44:31+00:00",
   "vibegamer_url": "https://vibegamer.io/game/tetramental"
+ },
+ {
+  "slug": "tumblebuds-the-journey-home",
+  "name": "Tumblebuds: The Journey Home",
+  "headline": "Give a little marching crew the skills to find its way home.",
+  "url": "https://johnnyffm.github.io/tumblebuds/",
+  "maker_name": "Mossbell Games",
+  "maker_handle": null,
+  "made_with": [
+   "Claude Code",
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "Puzzle",
+   "Strategy",
+   "3D"
+  ],
+  "score": 8,
+  "released": "2026-11-15T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/tumblebuds-the-journey-home"
+ },
+ {
+  "slug": "cold-smoke",
+  "name": "Cold Smoke",
+  "headline": "Carve your own tracks down an endless mountain.",
+  "url": "https://huisky.xyz/cold-smoke/play",
+  "maker_name": "Huisky (灰斯基)",
+  "maker_handle": null,
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "Sports",
+   "Cosy",
+   "3D"
+  ],
+  "score": 8.1,
+  "released": "2026-11-14T20:43:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/cold-smoke"
  },
  {
   "slug": "forked-lives",
@@ -4416,6 +4512,23 @@
   "score": 8.2,
   "released": "2026-09-27T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/sky-reach"
+ },
+ {
+  "slug": "open-road",
+  "name": "Open Road",
+  "headline": "Take an orange Vantara GT-R through the bends of Horizon Valley.",
+  "url": "https://tesana.com/game/open-road-0379f35f/play",
+  "maker_name": "Tesana Studios",
+  "maker_handle": null,
+  "made_with": [],
+  "tags": [
+   "Racing",
+   "Driving",
+   "Exploration"
+  ],
+  "score": 7.9,
+  "released": "2026-09-27T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/open-road"
  },
  {
   "slug": "danfo-run",
