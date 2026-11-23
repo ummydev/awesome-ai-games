@@ -439,6 +439,25 @@
   "vibegamer_url": "https://vibegamer.io/game/lumina-fighter-jets"
  },
  {
+  "slug": "the-professors-reagent-shelf",
+  "name": "The Professor’s Reagent Shelf",
+  "headline": "Figure out which bottle lost its label.",
+  "url": "https://shakin-2.github.io/hakasenoshiyakudana/",
+  "maker_name": "しゃきん2",
+  "maker_handle": "shakin_2",
+  "made_with": [
+   "Claude Code"
+  ],
+  "tags": [
+   "Educational",
+   "Puzzle",
+   "Quiz"
+  ],
+  "score": 8.1,
+  "released": "2026-11-20T12:28:13.757+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/the-professors-reagent-shelf"
+ },
+ {
   "slug": "ink-flight",
   "name": "Ink Flight",
   "headline": "Fly a folded paper plane through a world drawn entirely in code",
@@ -561,6 +580,44 @@
   "score": 7.9,
   "released": "2026-11-20T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/chasm"
+ },
+ {
+  "slug": "sanhattan",
+  "name": "Sanhattan",
+  "headline": "Follow the orange marker to a Santiago repair shop.",
+  "url": "https://sanhattan-gta-santiago.vercel.app/",
+  "maker_name": "Benjamín Cordero",
+  "maker_handle": null,
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "Driving",
+   "Adventure",
+   "3D"
+  ],
+  "score": 8.1,
+  "released": "2026-11-20T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/sanhattan"
+ },
+ {
+  "slug": "contravia",
+  "name": "Contravía",
+  "headline": "Deliver a tape across Providencia before Radio Cauce goes on air.",
+  "url": "https://contravia-gta-santiago.vercel.app/",
+  "maker_name": "Benjamín Cordero",
+  "maker_handle": null,
+  "made_with": [
+   "GPT-6.2 Astra"
+  ],
+  "tags": [
+   "Driving",
+   "Adventure",
+   "3D"
+  ],
+  "score": 8.2,
+  "released": "2026-11-20T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/contravia"
  },
  {
   "slug": "neon-scramble",
@@ -738,6 +795,26 @@
   "score": 6.4,
   "released": "2026-11-19T10:38:43.544+00:00",
   "vibegamer_url": "https://vibegamer.io/game/outlier-duel"
+ },
+ {
+  "slug": "iron-rotor",
+  "name": "IRON ROTOR",
+  "headline": "Fly an alpine archipelago in a fighter jet or a gunship.",
+  "url": "https://ashutoshai.com/showcase/play/iron-rotor/",
+  "maker_name": "Ashutosh Shrivastava",
+  "maker_handle": "ai_for_success",
+  "made_with": [
+   "Gemini 4 Neon",
+   "Antigravity"
+  ],
+  "tags": [
+   "Flight",
+   "Arcade",
+   "Action"
+  ],
+  "score": 8.2,
+  "released": "2026-11-19T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/iron-rotor"
  },
  {
   "slug": "crosstown",
@@ -1145,6 +1222,26 @@
   "score": 8.6,
   "released": "2026-11-15T17:06:36+00:00",
   "vibegamer_url": "https://vibegamer.io/game/castle-valley"
+ },
+ {
+  "slug": "fighter",
+  "name": "fighter",
+  "headline": "Bank a pixel jet over an island chain.",
+  "url": "https://forge.ui8.ai/share/frag_1eb8944c-57b1-42ca-a909-5c2d7e517c24",
+  "maker_name": "Dash",
+  "maker_handle": "creativedash",
+  "made_with": [
+   "Claude Fable",
+   "Forge"
+  ],
+  "tags": [
+   "Arcade",
+   "Flight",
+   "Action"
+  ],
+  "score": 8.4,
+  "released": "2026-11-15T16:16:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/fighter"
  },
  {
   "slug": "baron",
