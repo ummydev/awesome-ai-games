@@ -37,6 +37,78 @@
   "vibegamer_url": "https://vibegamer.io/game/torchlight-depths"
  },
  {
+  "slug": "gimble-quest",
+  "name": "Gimble Quest",
+  "headline": "Take a sloth adventuring through a moss-grown kingdom",
+  "url": "https://gimblegaming.com/play/gimble-quest/",
+  "maker_name": "Gimble Gaming",
+  "maker_handle": "gimblegaming",
+  "made_with": [],
+  "tags": [
+   "RPG",
+   "Action",
+   "Adventure",
+   "Platformer"
+  ],
+  "score": 8.6,
+  "released": "2026-11-24T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/gimble-quest"
+ },
+ {
+  "slug": "geosports",
+  "name": "GeoSports",
+  "headline": "Where did it happen? Put your sports knowledge on the map",
+  "url": "https://geosports.app/play",
+  "maker_name": "GeoSports",
+  "maker_handle": "PlayGeoGames",
+  "made_with": [],
+  "tags": [
+   "Sports",
+   "Trivia",
+   "Daily"
+  ],
+  "score": 8.5,
+  "released": "2026-11-24T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/geosports"
+ },
+ {
+  "slug": "beat-the-elements",
+  "name": "Beat The Elements",
+  "headline": "Two rivers, two rafts, three diamonds",
+  "url": "https://www.playbte.com/",
+  "maker_name": "TGM BV",
+  "maker_handle": "dotwish.app",
+  "made_with": [],
+  "tags": [
+   "Puzzle",
+   "3D",
+   "Strategy"
+  ],
+  "score": 8.6,
+  "released": "2026-11-24T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/beat-the-elements"
+ },
+ {
+  "slug": "cinderwatch",
+  "name": "Cinderwatch",
+  "headline": "Take command of the forest road",
+  "url": "https://kevintngo.github.io/cinderwatch/",
+  "maker_name": "Kevin Ngo",
+  "maker_handle": "kevin_t_ngo",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "Strategy",
+   "Pixel Art",
+   "Dark fantasy",
+   "Monsters"
+  ],
+  "score": 8.7,
+  "released": "2026-11-24T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/cinderwatch"
+ },
+ {
   "slug": "gta7-2",
   "name": "gta7",
   "headline": "gta7: a free browser game you can play online.",
@@ -783,6 +855,42 @@
   "score": 8.4,
   "released": "2026-11-23T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/sake-noborimasu"
+ },
+ {
+  "slug": "immortal-dale",
+  "name": "Immortal Dale",
+  "headline": "That snail is gaining on Dale",
+  "url": "https://tesana.com/game/immortal-dale/play",
+  "maker_name": "therico01",
+  "maker_handle": "therico01",
+  "made_with": [],
+  "tags": [
+   "Runner",
+   "Pixel Art",
+   "Arcade",
+   "Action"
+  ],
+  "score": 8.5,
+  "released": "2026-11-23T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/immortal-dale"
+ },
+ {
+  "slug": "pitch-legends",
+  "name": "Pitch Legends",
+  "headline": "Take the penalty, then defend the goal",
+  "url": "https://tesana.com/game/pitch-legends-08641597/play",
+  "maker_name": "aidan97",
+  "maker_handle": "aidan97",
+  "made_with": [],
+  "tags": [
+   "Football",
+   "Sports",
+   "3D",
+   "Simulation"
+  ],
+  "score": 8.6,
+  "released": "2026-11-23T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/pitch-legends"
  },
  {
   "slug": "dial-up-pong",
