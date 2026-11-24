@@ -1,5 +1,24 @@
 [
  {
+  "slug": "brushwild",
+  "name": "Brushwild",
+  "headline": "Step out of Hearthmere into a world drawn in coloured pencil",
+  "url": "https://kevintngo.github.io/procedural-rpg/",
+  "maker_name": "Kevin Ngo",
+  "maker_handle": "kevin_t_ngo",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "RPG",
+   "Open world",
+   "Adventure"
+  ],
+  "score": null,
+  "released": "2026-11-24T20:10:45+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/brushwild"
+ },
+ {
   "slug": "geosports",
   "name": "GeoSports",
   "headline": "Where did it happen? Put your sports knowledge on the map",
