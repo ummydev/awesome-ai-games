@@ -1,23 +1,5 @@
 [
  {
-  "slug": "tiny-gods",
-  "name": "Tiny Gods",
-  "headline": "Give your Stone Age tribe a level place to call home",
-  "url": "https://www.tinygodsgame.com/",
-  "maker_name": "Tiny Gods",
-  "maker_handle": "tinygods2026",
-  "made_with": [],
-  "tags": [
-   "Simulation",
-   "Strategy",
-   "Sandbox",
-   "3D"
-  ],
-  "score": 8.7,
-  "released": "2026-11-24T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/tiny-gods"
- },
- {
   "slug": "geosports",
   "name": "GeoSports",
   "headline": "Where did it happen? Put your sports knowledge on the map",
@@ -33,6 +15,61 @@
   "score": 8.5,
   "released": "2026-11-24T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/geosports"
+ },
+ {
+  "slug": "gimble-quest",
+  "name": "Gimble Quest",
+  "headline": "Take a sloth adventuring through a moss-grown kingdom",
+  "url": "https://gimblegaming.com/play/gimble-quest/",
+  "maker_name": "Gimble Gaming",
+  "maker_handle": "gimblegaming",
+  "made_with": [],
+  "tags": [
+   "RPG",
+   "Action",
+   "Adventure",
+   "Platformer"
+  ],
+  "score": 8.6,
+  "released": "2026-11-24T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/gimble-quest"
+ },
+ {
+  "slug": "torchlight-depths",
+  "name": "Torchlight Depths",
+  "headline": "Follow the torchlight into the Damp Catacombs",
+  "url": "https://kevintngo.github.io/dungeon-game/",
+  "maker_name": "Kevin Ngo",
+  "maker_handle": "kevin_t_ngo",
+  "made_with": [
+   "Gemini 4 Neon"
+  ],
+  "tags": [
+   "Action",
+   "Exploration",
+   "Combat",
+   "Dark fantasy"
+  ],
+  "score": 8.6,
+  "released": "2026-11-24T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/torchlight-depths"
+ },
+ {
+  "slug": "sillage",
+  "name": "Sillage",
+  "headline": "Boost through the bends at Zenith Station",
+  "url": "https://www.aigameshare.com/games/sillage",
+  "maker_name": "DEVOFFICAlsillage",
+  "maker_handle": null,
+  "made_with": [],
+  "tags": [
+   "Racing",
+   "3D",
+   "Driving"
+  ],
+  "score": 8.2,
+  "released": "2026-11-24T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/sillage"
  },
  {
   "slug": "cinderwatch",
@@ -55,22 +92,40 @@
   "vibegamer_url": "https://vibegamer.io/game/cinderwatch"
  },
  {
-  "slug": "gimble-quest",
-  "name": "Gimble Quest",
-  "headline": "Take a sloth adventuring through a moss-grown kingdom",
-  "url": "https://gimblegaming.com/play/gimble-quest/",
-  "maker_name": "Gimble Gaming",
-  "maker_handle": "gimblegaming",
+  "slug": "hesokuri-souji",
+  "name": "Secret Stash Spring Cleaning (へそくり大掃除)",
+  "headline": "The attic safe is upstairs. Your vacuum bag is already half full.",
+  "url": "https://pocketful.games/g/hesokuri-souji/",
+  "maker_name": "ふくらはぎ",
+  "maker_handle": "fukurahagi_ai",
   "made_with": [],
   "tags": [
-   "RPG",
-   "Action",
+   "Exploration",
+   "Casual",
    "Adventure",
-   "Platformer"
+   "2D"
   ],
-  "score": 8.6,
+  "score": 8.5,
   "released": "2026-11-24T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/gimble-quest"
+  "vibegamer_url": "https://vibegamer.io/game/hesokuri-souji"
+ },
+ {
+  "slug": "okawari-dekimasen",
+  "name": "No Refills (おかわりは、できません。)",
+  "headline": "Can one plate pay for a ¥3,000 buffet?",
+  "url": "https://nkworks-games.com/okawari-dekimasen/",
+  "maker_name": "たけちか.NK",
+  "maker_handle": "vyaPudzd1E54661",
+  "made_with": [],
+  "tags": [
+   "Physics",
+   "Puzzle",
+   "Casual",
+   "Simulation"
+  ],
+  "score": 8.8,
+  "released": "2026-11-24T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/okawari-dekimasen"
  },
  {
   "slug": "flimsy-friends",
@@ -91,21 +146,22 @@
   "vibegamer_url": "https://vibegamer.io/game/flimsy-friends"
  },
  {
-  "slug": "sillage",
-  "name": "Sillage",
-  "headline": "Boost through the bends at Zenith Station",
-  "url": "https://www.aigameshare.com/games/sillage",
-  "maker_name": "DEVOFFICAlsillage",
-  "maker_handle": null,
+  "slug": "tiny-gods",
+  "name": "Tiny Gods",
+  "headline": "Give your Stone Age tribe a level place to call home",
+  "url": "https://www.tinygodsgame.com/",
+  "maker_name": "Tiny Gods",
+  "maker_handle": "tinygods2026",
   "made_with": [],
   "tags": [
-   "Racing",
-   "3D",
-   "Driving"
+   "Simulation",
+   "Strategy",
+   "Sandbox",
+   "3D"
   ],
-  "score": 8.2,
+  "score": 8.7,
   "released": "2026-11-24T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/sillage"
+  "vibegamer_url": "https://vibegamer.io/game/tiny-gods"
  },
  {
   "slug": "beat-the-elements",
@@ -125,24 +181,21 @@
   "vibegamer_url": "https://vibegamer.io/game/beat-the-elements"
  },
  {
-  "slug": "torchlight-depths",
-  "name": "Torchlight Depths",
-  "headline": "Follow the torchlight into the Damp Catacombs",
-  "url": "https://kevintngo.github.io/dungeon-game/",
-  "maker_name": "Kevin Ngo",
-  "maker_handle": "kevin_t_ngo",
-  "made_with": [
-   "Gemini 4 Neon"
-  ],
+  "slug": "match-fire",
+  "name": "Matchstick Inferno Drop (大炎上マッチ落とし)",
+  "headline": "How many matches can one ball set alight?",
+  "url": "https://match-fire.alto-games.com/",
+  "maker_name": "アルト",
+  "maker_handle": "alto__games",
+  "made_with": [],
   "tags": [
-   "Action",
-   "Exploration",
-   "Combat",
-   "Dark fantasy"
+   "Physics",
+   "Arcade",
+   "Casual"
   ],
-  "score": 8.6,
+  "score": 8.5,
   "released": "2026-11-24T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/torchlight-depths"
+  "vibegamer_url": "https://vibegamer.io/game/match-fire"
  },
  {
   "slug": "gta7-2",
@@ -192,19 +245,6 @@
   "score": 7.7,
   "released": "2026-11-23T17:47:52.84+00:00",
   "vibegamer_url": "https://vibegamer.io/game/bigger-vs"
- },
- {
-  "slug": "nanning-online",
-  "name": "Nanning Online",
-  "headline": "The Nanning Online preview is live.",
-  "url": "https://nanningol.com/",
-  "maker_name": null,
-  "maker_handle": null,
-  "made_with": [],
-  "tags": [],
-  "score": null,
-  "released": "2026-11-23T16:53:02.291687+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/nanning-online"
  },
  {
   "slug": "last-train-lockers-adffa6",
@@ -839,6 +879,23 @@
   "vibegamer_url": "https://vibegamer.io/game/immortal-dale"
  },
  {
+  "slug": "jelly-sub-the-great-dam-squeeze",
+  "name": "Jelly Sub: The Great Dam Squeeze",
+  "headline": "One enormous submarine, one very small hole",
+  "url": "https://submarinejelly.metalturtle.net/",
+  "maker_name": "metalturtle",
+  "maker_handle": "metalturtle297",
+  "made_with": [],
+  "tags": [
+   "Physics",
+   "3D",
+   "Puzzle"
+  ],
+  "score": 8.8,
+  "released": "2026-11-23T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/jelly-sub-the-great-dam-squeeze"
+ },
+ {
   "slug": "pitch-legends",
   "name": "Pitch Legends",
   "headline": "Take the penalty, then defend the goal",
@@ -857,21 +914,21 @@
   "vibegamer_url": "https://vibegamer.io/game/pitch-legends"
  },
  {
-  "slug": "jelly-sub-the-great-dam-squeeze",
-  "name": "Jelly Sub: The Great Dam Squeeze",
-  "headline": "One enormous submarine, one very small hole",
-  "url": "https://submarinejelly.metalturtle.net/",
-  "maker_name": "metalturtle",
-  "maker_handle": "metalturtle297",
+  "slug": "3d-sculpting-simulator",
+  "name": "3D Sculpting Simulator",
+  "headline": "Carve an L out of a block of marble",
+  "url": "https://llllll.games/games/chisel/",
+  "maker_name": "6🎮ゲームづくり！",
+  "maker_handle": "SixRods_llllll",
   "made_with": [],
   "tags": [
-   "Physics",
-   "3D",
-   "Puzzle"
+   "Simulation",
+   "Puzzle",
+   "Sandbox"
   ],
   "score": 8.8,
   "released": "2026-11-23T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/jelly-sub-the-great-dam-squeeze"
+  "vibegamer_url": "https://vibegamer.io/game/3d-sculpting-simulator"
  },
  {
   "slug": "after-school-coin-adventure",
@@ -909,23 +966,6 @@
   "score": 8.7,
   "released": "2026-11-23T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/the-scribble-king"
- },
- {
-  "slug": "3d-sculpting-simulator",
-  "name": "3D Sculpting Simulator",
-  "headline": "Carve an L out of a block of marble",
-  "url": "https://llllll.games/games/chisel/",
-  "maker_name": "6🎮ゲームづくり！",
-  "maker_handle": "SixRods_llllll",
-  "made_with": [],
-  "tags": [
-   "Simulation",
-   "Puzzle",
-   "Sandbox"
-  ],
-  "score": 8.8,
-  "released": "2026-11-23T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/3d-sculpting-simulator"
  },
  {
   "slug": "boom-arena",
@@ -1173,76 +1213,6 @@
   "vibegamer_url": "https://vibegamer.io/game/the-astrolabe-chamber"
  },
  {
-  "slug": "lumi-run",
-  "name": "Lumi Run",
-  "headline": "Hop over shrimp and run up a bubble tea score",
-  "url": "https://baby-lumi.vercel.app/",
-  "maker_name": "dodi marie",
-  "maker_handle": "cupdooodles_",
-  "made_with": [],
-  "tags": [
-   "Runner",
-   "Arcade",
-   "Retro",
-   "Mobile-friendly"
-  ],
-  "score": 8.6,
-  "released": "2026-11-22T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/lumi-run"
- },
- {
-  "slug": "sky-ace",
-  "name": "Sky Ace",
-  "headline": "3D fighter jet dogfight action over coastal islands with missiles and radar HUD.",
-  "url": "https://tesana.com/game/sky-ace/play",
-  "maker_name": "Tesana Community",
-  "maker_handle": null,
-  "made_with": [],
-  "tags": [
-   "Flight",
-   "Shooter",
-   "3D"
-  ],
-  "score": 7.9,
-  "released": "2026-11-22T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/sky-ace"
- },
- {
-  "slug": "jamirogame",
-  "name": "JAMIROGAME",
-  "headline": "Drop black chairs into a room where the dancer never stands still.",
-  "url": "https://jamirogame.sonzaikioku.chatgpt.site/",
-  "maker_name": "存在しない記憶。",
-  "maker_handle": "haluno_AI",
-  "made_with": [],
-  "tags": [
-   "Arcade",
-   "Physics",
-   "Comedy"
-  ],
-  "score": 8.2,
-  "released": "2026-11-22T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/jamirogame"
- },
- {
-  "slug": "grow-up-with-lenamiu",
-  "name": "grow up with lenamiu",
-  "headline": "A game of Snake played with a birthday photo album",
-  "url": "https://hbd-lenamiu.vercel.app/",
-  "maker_name": "dodi marie",
-  "maker_handle": "cupdooodles_",
-  "made_with": [],
-  "tags": [
-   "Arcade",
-   "Cosy",
-   "Retro",
-   "2D"
-  ],
-  "score": 8.2,
-  "released": "2026-11-22T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/grow-up-with-lenamiu"
- },
- {
   "slug": "orbit-rally",
   "name": "Orbit Rally",
   "headline": "Bend a shot around a planet and past the CPU",
@@ -1275,6 +1245,76 @@
   "score": 8.6,
   "released": "2026-11-22T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/pay-to-kill"
+ },
+ {
+  "slug": "lumi-run",
+  "name": "Lumi Run",
+  "headline": "Hop over shrimp and run up a bubble tea score",
+  "url": "https://baby-lumi.vercel.app/",
+  "maker_name": "dodi marie",
+  "maker_handle": "cupdooodles_",
+  "made_with": [],
+  "tags": [
+   "Runner",
+   "Arcade",
+   "Retro",
+   "Mobile-friendly"
+  ],
+  "score": 8.6,
+  "released": "2026-11-22T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/lumi-run"
+ },
+ {
+  "slug": "grow-up-with-lenamiu",
+  "name": "grow up with lenamiu",
+  "headline": "A game of Snake played with a birthday photo album",
+  "url": "https://hbd-lenamiu.vercel.app/",
+  "maker_name": "dodi marie",
+  "maker_handle": "cupdooodles_",
+  "made_with": [],
+  "tags": [
+   "Arcade",
+   "Cosy",
+   "Retro",
+   "2D"
+  ],
+  "score": 8.2,
+  "released": "2026-11-22T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/grow-up-with-lenamiu"
+ },
+ {
+  "slug": "jamirogame",
+  "name": "JAMIROGAME",
+  "headline": "Drop black chairs into a room where the dancer never stands still.",
+  "url": "https://jamirogame.sonzaikioku.chatgpt.site/",
+  "maker_name": "存在しない記憶。",
+  "maker_handle": "haluno_AI",
+  "made_with": [],
+  "tags": [
+   "Arcade",
+   "Physics",
+   "Comedy"
+  ],
+  "score": 8.2,
+  "released": "2026-11-22T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/jamirogame"
+ },
+ {
+  "slug": "sky-ace",
+  "name": "Sky Ace",
+  "headline": "3D fighter jet dogfight action over coastal islands with missiles and radar HUD.",
+  "url": "https://tesana.com/game/sky-ace/play",
+  "maker_name": "Tesana Community",
+  "maker_handle": null,
+  "made_with": [],
+  "tags": [
+   "Flight",
+   "Shooter",
+   "3D"
+  ],
+  "score": 7.9,
+  "released": "2026-11-22T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/sky-ace"
  },
  {
   "slug": "thin-film",
@@ -1578,6 +1618,26 @@
   "vibegamer_url": "https://vibegamer.io/game/neon-canyon-run-claude-fable-5-2-shell"
  },
  {
+  "slug": "neon-canyon-run-gpt-6-2-astra",
+  "name": "Neon Canyon Run (GPT-6.2 Astra)",
+  "headline": "A synthwave hover-bike runner toward a neon sunset, made by GPT-6.2 Astra from one prompt with no follow-ups: our side-by-side model test.",
+  "url": "https://cdn.vibegamer.io/play/neon-canyon-run/gpt-6-2-astra/index.html",
+  "maker_name": "VibeGamer",
+  "maker_handle": "vibegamer",
+  "made_with": [
+   "GPT-6.2 Astra",
+   "Codex"
+  ],
+  "tags": [
+   "Runner",
+   "Arcade",
+   "Retro"
+  ],
+  "score": 7,
+  "released": "2026-11-21T08:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/neon-canyon-run-gpt-6-2-astra"
+ },
+ {
   "slug": "neon-canyon-run-claude-fable-5-2",
   "name": "Neon Canyon Run (Claude Fable 5.2)",
   "headline": "A neon hover-bike runner through a glowing canyon, made by Claude Fable 5.2 from one prompt with no follow-ups: our side-by-side model test.",
@@ -1599,58 +1659,23 @@
   "vibegamer_url": "https://vibegamer.io/game/neon-canyon-run-claude-fable-5-2"
  },
  {
-  "slug": "neon-canyon-run-gpt-6-2-astra",
-  "name": "Neon Canyon Run (GPT-6.2 Astra)",
-  "headline": "A synthwave hover-bike runner toward a neon sunset, made by GPT-6.2 Astra from one prompt with no follow-ups: our side-by-side model test.",
-  "url": "https://cdn.vibegamer.io/play/neon-canyon-run/gpt-6-2-astra/index.html",
-  "maker_name": "VibeGamer",
-  "maker_handle": "vibegamer",
+  "slug": "yoyo-survival",
+  "name": "Yoyo Survival",
+  "headline": "Clear a path through goblins with a charged yoyo throw",
+  "url": "https://app.usecrayon.ai/play/951dfd15-82b3-4af4-be4d-96ac83d23227",
+  "maker_name": "Tushar",
+  "maker_handle": "usecrayon",
   "made_with": [
-   "GPT-6.2 Astra",
-   "Codex"
+   "Claude Fable 5.2"
   ],
   "tags": [
-   "Runner",
-   "Arcade",
-   "Retro"
+   "Action",
+   "Roguelite",
+   "Arcade"
   ],
-  "score": 7,
-  "released": "2026-11-21T08:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/neon-canyon-run-gpt-6-2-astra"
- },
- {
-  "slug": "saikyou-ken",
-  "name": "Forge the Strongest Sword",
-  "headline": "How sharp a sword can you make from a fish cake?",
-  "url": "https://mainichilabo.com/saikyou-ken/",
-  "maker_name": "まいにちらぼ (Mainichi Labo)",
-  "maker_handle": "mainichi_labo",
-  "made_with": [],
-  "tags": [
-   "Simulation",
-   "Arcade",
-   "3D"
-  ],
-  "score": 8.5,
+  "score": 8.2,
   "released": "2026-11-21T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/saikyou-ken"
- },
- {
-  "slug": "wobbly-slime-bridge",
-  "name": "Wobbly Slime Bridge",
-  "headline": "Draw a bridge that bounces",
-  "url": "https://shjuno.itch.io/purun-slime-bridge",
-  "maker_name": "shjuno",
-  "maker_handle": "shjuno_",
-  "made_with": [],
-  "tags": [
-   "Physics",
-   "Puzzle",
-   "2D"
-  ],
-  "score": 8.4,
-  "released": "2026-11-21T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/wobbly-slime-bridge"
+  "vibegamer_url": "https://vibegamer.io/game/yoyo-survival"
  },
  {
   "slug": "atlantis",
@@ -1674,23 +1699,38 @@
   "vibegamer_url": "https://vibegamer.io/game/atlantis"
  },
  {
-  "slug": "yoyo-survival",
-  "name": "Yoyo Survival",
-  "headline": "Clear a path through goblins with a charged yoyo throw",
-  "url": "https://app.usecrayon.ai/play/951dfd15-82b3-4af4-be4d-96ac83d23227",
-  "maker_name": "Tushar",
-  "maker_handle": "usecrayon",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
+  "slug": "wobbly-slime-bridge",
+  "name": "Wobbly Slime Bridge",
+  "headline": "Draw a bridge that bounces",
+  "url": "https://shjuno.itch.io/purun-slime-bridge",
+  "maker_name": "shjuno",
+  "maker_handle": "shjuno_",
+  "made_with": [],
   "tags": [
-   "Action",
-   "Roguelite",
-   "Arcade"
+   "Physics",
+   "Puzzle",
+   "2D"
   ],
-  "score": 8.2,
+  "score": 8.4,
   "released": "2026-11-21T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/yoyo-survival"
+  "vibegamer_url": "https://vibegamer.io/game/wobbly-slime-bridge"
+ },
+ {
+  "slug": "saikyou-ken",
+  "name": "Forge the Strongest Sword",
+  "headline": "How sharp a sword can you make from a fish cake?",
+  "url": "https://mainichilabo.com/saikyou-ken/",
+  "maker_name": "まいにちらぼ (Mainichi Labo)",
+  "maker_handle": "mainichi_labo",
+  "made_with": [],
+  "tags": [
+   "Simulation",
+   "Arcade",
+   "3D"
+  ],
+  "score": 8.5,
+  "released": "2026-11-21T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/saikyou-ken"
  },
  {
   "slug": "planebench-flight-simulator",
@@ -1768,6 +1808,23 @@
   "vibegamer_url": "https://vibegamer.io/game/the-professors-reagent-shelf"
  },
  {
+  "slug": "room-13",
+  "name": "Room 13",
+  "headline": "An interactive game for learning English through mystery stories: double-click any word to look it up, translate sentences, then clear reading quizzes",
+  "url": "https://room13.srv1903550.hstgr.cloud",
+  "maker_name": "MartinaBuilds",
+  "maker_handle": "MartinaBuilds",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 7.2,
+  "released": "2026-11-20T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/room-13"
+ },
+ {
   "slug": "ink-flight",
   "name": "Ink Flight",
   "headline": "Fly a folded paper plane through a world drawn entirely in code",
@@ -1804,23 +1861,6 @@
   "score": 8.2,
   "released": "2026-11-20T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/market-order"
- },
- {
-  "slug": "room-13",
-  "name": "Room 13",
-  "headline": "An interactive game for learning English through mystery stories: double-click any word to look it up, translate sentences, then clear reading quizzes",
-  "url": "https://room13.srv1903550.hstgr.cloud",
-  "maker_name": "MartinaBuilds",
-  "maker_handle": "MartinaBuilds",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
-  ],
-  "score": 7.2,
-  "released": "2026-11-20T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/room-13"
  },
  {
   "slug": "round-the-stone-and-roll-it",
@@ -1903,6 +1943,46 @@
   "vibegamer_url": "https://vibegamer.io/game/flickms"
  },
  {
+  "slug": "chasm",
+  "name": "Chasm",
+  "headline": "Guide a knight through a torchlit WebGPU dungeon.",
+  "url": "https://chasm.layero.app/",
+  "maker_name": "dpsmkr7",
+  "maker_handle": null,
+  "made_with": [
+   "Claude Opus 5.5",
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "RPG",
+   "Adventure",
+   "3D"
+  ],
+  "score": 7.9,
+  "released": "2026-11-20T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/chasm"
+ },
+ {
+  "slug": "tide-atlas",
+  "name": "Tide Atlas",
+  "headline": "Draw a constellation on the mirror sea",
+  "url": "https://tide-atlas-six.vercel.app/",
+  "maker_name": "Vib3Coded",
+  "maker_handle": "vib3coded",
+  "made_with": [
+   "GPT-6.2 Astra"
+  ],
+  "tags": [
+   "Exploration",
+   "Puzzle",
+   "3D",
+   "Adventure"
+  ],
+  "score": 8.7,
+  "released": "2026-11-20T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/tide-atlas"
+ },
+ {
   "slug": "contravia",
   "name": "Contravía",
   "headline": "Deliver a tape across Providencia before Radio Cauce goes on air.",
@@ -1958,46 +2038,6 @@
   "score": 7.8,
   "released": "2026-11-20T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/snakube"
- },
- {
-  "slug": "chasm",
-  "name": "Chasm",
-  "headline": "Guide a knight through a torchlit WebGPU dungeon.",
-  "url": "https://chasm.layero.app/",
-  "maker_name": "dpsmkr7",
-  "maker_handle": null,
-  "made_with": [
-   "Claude Opus 5.5",
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "RPG",
-   "Adventure",
-   "3D"
-  ],
-  "score": 7.9,
-  "released": "2026-11-20T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/chasm"
- },
- {
-  "slug": "tide-atlas",
-  "name": "Tide Atlas",
-  "headline": "Draw a constellation on the mirror sea",
-  "url": "https://tide-atlas-six.vercel.app/",
-  "maker_name": "Vib3Coded",
-  "maker_handle": "vib3coded",
-  "made_with": [
-   "GPT-6.2 Astra"
-  ],
-  "tags": [
-   "Exploration",
-   "Puzzle",
-   "3D",
-   "Adventure"
-  ],
-  "score": 8.7,
-  "released": "2026-11-20T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/tide-atlas"
  },
  {
   "slug": "royalty-run",
@@ -2125,24 +2165,6 @@
   "vibegamer_url": "https://vibegamer.io/game/ashengrid"
  },
  {
-  "slug": "napoleon-x-locke",
-  "name": "Napoleon x Locke",
-  "headline": "Ride Napoleon's winged horse through Egypt, Italy, Paris and Saint Helena",
-  "url": "https://napolehim.com",
-  "maker_name": "lockeorca",
-  "maker_handle": "lockeorca",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Flight"
-  ],
-  "score": 7.3,
-  "released": "2026-11-19T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/napoleon-x-locke"
- },
- {
   "slug": "fall-line-downhill-mtb",
   "name": "Fall Line: downhill MTB",
   "headline": "A downhill mountain bike game in three.js, playable in the browser with a keyboard",
@@ -2159,6 +2181,24 @@
   "score": 8.3,
   "released": "2026-11-19T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/fall-line-downhill-mtb"
+ },
+ {
+  "slug": "napoleon-x-locke",
+  "name": "Napoleon x Locke",
+  "headline": "Ride Napoleon's winged horse through Egypt, Italy, Paris and Saint Helena",
+  "url": "https://napolehim.com",
+  "maker_name": "lockeorca",
+  "maker_handle": "lockeorca",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Flight"
+  ],
+  "score": 7.3,
+  "released": "2026-11-19T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/napoleon-x-locke"
  },
  {
   "slug": "the-world-of-hoodcraft",
@@ -2298,26 +2338,6 @@
   "vibegamer_url": "https://vibegamer.io/game/wrongly-drawn"
  },
  {
-  "slug": "iron-rotor",
-  "name": "IRON ROTOR",
-  "headline": "Fly an alpine archipelago in a fighter jet or a gunship.",
-  "url": "https://ashutoshai.com/showcase/play/iron-rotor/",
-  "maker_name": "Ashutosh Shrivastava",
-  "maker_handle": "ai_for_success",
-  "made_with": [
-   "Gemini 4 Neon",
-   "Antigravity"
-  ],
-  "tags": [
-   "Flight",
-   "Arcade",
-   "Action"
-  ],
-  "score": 8.2,
-  "released": "2026-11-19T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/iron-rotor"
- },
- {
   "slug": "nova-football-26",
   "name": "NOVA Football 26",
   "headline": "Split the defence with a through ball",
@@ -2357,6 +2377,26 @@
   "vibegamer_url": "https://vibegamer.io/game/mokugyo-forest"
  },
  {
+  "slug": "iron-rotor",
+  "name": "IRON ROTOR",
+  "headline": "Fly an alpine archipelago in a fighter jet or a gunship.",
+  "url": "https://ashutoshai.com/showcase/play/iron-rotor/",
+  "maker_name": "Ashutosh Shrivastava",
+  "maker_handle": "ai_for_success",
+  "made_with": [
+   "Gemini 4 Neon",
+   "Antigravity"
+  ],
+  "tags": [
+   "Flight",
+   "Arcade",
+   "Action"
+  ],
+  "score": 8.2,
+  "released": "2026-11-19T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/iron-rotor"
+ },
+ {
   "slug": "crosstown",
   "name": "CROSSTOWN",
   "headline": "A GTA-style open world of all of Manhattan, to scale, in the browser: drive the avenues, fly a helicopter over Central Park, parachute off towers and shoot, by day and night. Matt Shumer says Claude Fable 5.2 built it.",
@@ -2375,6 +2415,43 @@
   "score": 8.8,
   "released": "2026-11-18T19:20:46+00:00",
   "vibegamer_url": "https://vibegamer.io/game/crosstown"
+ },
+ {
+  "slug": "hello-jello",
+  "name": "Hello Jello",
+  "headline": "A cute jelly physics toy: click and drag to stretch and fling a bunch of wobbly jellies",
+  "url": "https://jello.sixfingerpunch.com/",
+  "maker_name": "photonstorm",
+  "maker_handle": "photonstorm",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Physics"
+  ],
+  "score": 7.2,
+  "released": "2026-11-18T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/hello-jello"
+ },
+ {
+  "slug": "voidstruck",
+  "name": "Voidstruck",
+  "headline": "A whole procedural galaxy of 150 million star systems in one 299 KB HTML file: fly, land on planets, walk, mine, trade and find your way home.",
+  "url": "https://voidstruck.com/",
+  "maker_name": "Vitamax",
+  "maker_handle": "",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Exploration",
+   "Flight"
+  ],
+  "score": 8,
+  "released": "2026-11-18T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/voidstruck"
  },
  {
   "slug": "hadal",
@@ -2428,43 +2505,6 @@
   "score": 8.6,
   "released": "2026-11-18T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/papertrails"
- },
- {
-  "slug": "voidstruck",
-  "name": "Voidstruck",
-  "headline": "A whole procedural galaxy of 150 million star systems in one 299 KB HTML file: fly, land on planets, walk, mine, trade and find your way home.",
-  "url": "https://voidstruck.com/",
-  "maker_name": "Vitamax",
-  "maker_handle": "",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Exploration",
-   "Flight"
-  ],
-  "score": 8,
-  "released": "2026-11-18T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/voidstruck"
- },
- {
-  "slug": "hello-jello",
-  "name": "Hello Jello",
-  "headline": "A cute jelly physics toy: click and drag to stretch and fling a bunch of wobbly jellies",
-  "url": "https://jello.sixfingerpunch.com/",
-  "maker_name": "photonstorm",
-  "maker_handle": "photonstorm",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Physics"
-  ],
-  "score": 7.2,
-  "released": "2026-11-18T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/hello-jello"
  },
  {
   "slug": "orkhoarde",
@@ -2610,6 +2650,27 @@
   "vibegamer_url": "https://vibegamer.io/game/materia-viva-the-number-bridge"
  },
  {
+  "slug": "black-mass-cathedral-of-ash",
+  "name": "Black Mass: Cathedral of Ash",
+  "headline": "A Doom-style retro boomer shooter set inside a candlelit gothic cathedral, built in one shot with GPT-6.2 Astra and Blender sprites.",
+  "url": "https://black-mass-survivor.openai.chatgpt.site/",
+  "maker_name": "Thomas Ricouard",
+  "maker_handle": "Dimillian",
+  "made_with": [
+   "GPT-6.2 Astra",
+   "Blender",
+   "Three.js"
+  ],
+  "tags": [
+   "FPS",
+   "Shooter",
+   "Dark fantasy"
+  ],
+  "score": 8.1,
+  "released": "2026-11-17T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/black-mass-cathedral-of-ash"
+ },
+ {
   "slug": "hidden-layers",
   "name": "Hidden Layers",
   "headline": "Scroll to fly a glasswing butterfly that cannot get out of a glasshouse through six worlds",
@@ -2645,27 +2706,6 @@
   "score": 8.6,
   "released": "2026-11-17T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/solar"
- },
- {
-  "slug": "black-mass-cathedral-of-ash",
-  "name": "Black Mass: Cathedral of Ash",
-  "headline": "A Doom-style retro boomer shooter set inside a candlelit gothic cathedral, built in one shot with GPT-6.2 Astra and Blender sprites.",
-  "url": "https://black-mass-survivor.openai.chatgpt.site/",
-  "maker_name": "Thomas Ricouard",
-  "maker_handle": "Dimillian",
-  "made_with": [
-   "GPT-6.2 Astra",
-   "Blender",
-   "Three.js"
-  ],
-  "tags": [
-   "FPS",
-   "Shooter",
-   "Dark fantasy"
-  ],
-  "score": 8.1,
-  "released": "2026-11-17T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/black-mass-cathedral-of-ash"
  },
  {
   "slug": "the-drift-off-inn",
@@ -2878,45 +2918,6 @@
   "vibegamer_url": "https://vibegamer.io/game/fighter"
  },
  {
-  "slug": "midnight-grid",
-  "name": "Midnight Grid",
-  "headline": "An open-world driving game from one prompt: race through the city, crash into traffic and get chased by the cops",
-  "url": "https://mikenevermiss.github.io/midnight-grid/",
-  "maker_name": "mikenevermiss",
-  "maker_handle": "mikenevermiss",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Racing",
-   "Open world",
-   "Strategy"
-  ],
-  "score": 7.6,
-  "released": "2026-11-15T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/midnight-grid"
- },
- {
-  "slug": "er-6-terrain-explorer",
-  "name": "ER-6 Terrain Explorer",
-  "headline": "Fable 5.2 designed a rocker-bogie suspension like NASA's Mars rovers, then simulated it driving over alien terrain",
-  "url": "https://fable-rover.vercel.app",
-  "maker_name": "DilumSanjaya",
-  "maker_handle": "DilumSanjaya",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Exploration",
-   "Racing"
-  ],
-  "score": 8.6,
-  "released": "2026-11-15T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/er-6-terrain-explorer"
- },
- {
   "slug": "valsera-side-scrolling-rpg",
   "name": "Valsera — side-scrolling RPG",
   "headline": "A browser-playable side-scrolling RPG; every visual is drawn with code, no image model or pre-made art",
@@ -2952,6 +2953,26 @@
   "vibegamer_url": "https://vibegamer.io/game/malamaxxing"
  },
  {
+  "slug": "midnight-grid",
+  "name": "Midnight Grid",
+  "headline": "An open-world driving game from one prompt: race through the city, crash into traffic and get chased by the cops",
+  "url": "https://mikenevermiss.github.io/midnight-grid/",
+  "maker_name": "mikenevermiss",
+  "maker_handle": "mikenevermiss",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Racing",
+   "Open world",
+   "Strategy"
+  ],
+  "score": 7.6,
+  "released": "2026-11-15T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/midnight-grid"
+ },
+ {
   "slug": "baron",
   "name": "Baron",
   "headline": "A cartoon biplane flying game in the browser: build your plane in the hangar, take off from a grass-edged runway, explore a procedurally generated world of hills and coast, and land in one piece. Its open-source code was written with Claude Opus 5.5.",
@@ -2969,6 +2990,25 @@
   "score": 8.4,
   "released": "2026-11-15T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/baron"
+ },
+ {
+  "slug": "er-6-terrain-explorer",
+  "name": "ER-6 Terrain Explorer",
+  "headline": "Fable 5.2 designed a rocker-bogie suspension like NASA's Mars rovers, then simulated it driving over alien terrain",
+  "url": "https://fable-rover.vercel.app",
+  "maker_name": "DilumSanjaya",
+  "maker_handle": "DilumSanjaya",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Exploration",
+   "Racing"
+  ],
+  "score": 8.6,
+  "released": "2026-11-15T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/er-6-terrain-explorer"
  },
  {
   "slug": "lepak-city",
@@ -3012,6 +3052,26 @@
   "vibegamer_url": "https://vibegamer.io/game/tetramental"
  },
  {
+  "slug": "tumblebuds-the-journey-home",
+  "name": "Tumblebuds: The Journey Home",
+  "headline": "Give a little marching crew the skills to find its way home.",
+  "url": "https://johnnyffm.github.io/tumblebuds/",
+  "maker_name": "Mossbell Games",
+  "maker_handle": null,
+  "made_with": [
+   "Claude Code",
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "Puzzle",
+   "Strategy",
+   "3D"
+  ],
+  "score": 8,
+  "released": "2026-11-15T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/tumblebuds-the-journey-home"
+ },
+ {
   "slug": "otosuna-tanni",
   "name": "Don't Drop Your Credits! (落とすな！単位！！！)",
   "headline": "Can you carry 124 credits to graduation?",
@@ -3045,26 +3105,6 @@
   "score": 8.9,
   "released": "2026-11-15T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/yuka-wa-magma"
- },
- {
-  "slug": "tumblebuds-the-journey-home",
-  "name": "Tumblebuds: The Journey Home",
-  "headline": "Give a little marching crew the skills to find its way home.",
-  "url": "https://johnnyffm.github.io/tumblebuds/",
-  "maker_name": "Mossbell Games",
-  "maker_handle": null,
-  "made_with": [
-   "Claude Code",
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "Puzzle",
-   "Strategy",
-   "3D"
-  ],
-  "score": 8,
-  "released": "2026-11-15T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/tumblebuds-the-journey-home"
  },
  {
   "slug": "cold-smoke",
@@ -3136,41 +3176,6 @@
   "vibegamer_url": "https://vibegamer.io/game/small-magic"
  },
  {
-  "slug": "infall-you-are-the-black-hole",
-  "name": "INFALL — you are the black hole",
-  "headline": "The only instruction was \"go crazy and blow my mind\"; it went from idea to game in one shot",
-  "url": "https://infall-game.vercel.app",
-  "maker_name": "AugustCastilIo",
-  "maker_handle": "AugustCastilIo",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
-  ],
-  "score": 7.1,
-  "released": "2026-11-14T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/infall-you-are-the-black-hole"
- },
- {
-  "slug": "aussie-outback-4x4",
-  "name": "Aussie Outback 4x4",
-  "headline": "Off-roading in the Australian bush on the author's own Rust + WebGPU engine: mud, creek crossings, rock crawling, diff locks, tyre pressure and dynamic weather",
-  "url": "https://rust4x4.com/",
-  "maker_name": "SamGCoder",
-  "maker_handle": "SamGCoder",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Racing"
-  ],
-  "score": 7.7,
-  "released": "2026-11-14T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/aussie-outback-4x4"
- },
- {
   "slug": "red-wing-private-jet",
   "name": "Red Wing private jet",
   "headline": "Walk around the jet, click the door, the stairs come down and you step in: lounge, bedroom, even the bathroom",
@@ -3190,23 +3195,57 @@
   "vibegamer_url": "https://vibegamer.io/game/red-wing-private-jet"
  },
  {
-  "slug": "code-planet",
-  "name": "Code Planet",
-  "headline": "A whole planet in under 320KB of code",
-  "url": "https://planet.tokyoaivisuals.club/",
-  "maker_name": "KanaWorks_AI",
-  "maker_handle": "KanaWorks_AI",
+  "slug": "knock-it-off",
+  "name": "Knock It Off",
+  "headline": "You're a cat at 3am, swatting everything off the desk without waking the human",
+  "url": "https://fowllabs.com/fable-5-2/knock-it-off/",
+  "maker_name": "argofowl",
+  "maker_handle": "argofowl",
   "made_with": [
    "Claude Fable 5.2"
   ],
   "tags": [
    "3D",
-   "Exploration",
-   "Flight"
+   "Physics"
   ],
-  "score": 8.2,
+  "score": 7.8,
   "released": "2026-11-14T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/code-planet"
+  "vibegamer_url": "https://vibegamer.io/game/knock-it-off"
+ },
+ {
+  "slug": "infall-you-are-the-black-hole",
+  "name": "INFALL — you are the black hole",
+  "headline": "The only instruction was \"go crazy and blow my mind\"; it went from idea to game in one shot",
+  "url": "https://infall-game.vercel.app",
+  "maker_name": "AugustCastilIo",
+  "maker_handle": "AugustCastilIo",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 7.1,
+  "released": "2026-11-14T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/infall-you-are-the-black-hole"
+ },
+ {
+  "slug": "pogo-riot",
+  "name": "Pogo Riot",
+  "headline": "A free-for-all FPS where you bounce on a pogo stick and aim at the same time",
+  "url": "https://www.spawn.co/@abbidabbi/pogo-riot",
+  "maker_name": "Abbi",
+  "maker_handle": "Pumpnasterr",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Shooter"
+  ],
+  "score": 7.9,
+  "released": "2026-11-14T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/pogo-riot"
  },
  {
   "slug": "unsung-vale-open-world-rpg",
@@ -3228,40 +3267,41 @@
   "vibegamer_url": "https://vibegamer.io/game/unsung-vale-open-world-rpg"
  },
  {
-  "slug": "knock-it-off",
-  "name": "Knock It Off",
-  "headline": "You're a cat at 3am, swatting everything off the desk without waking the human",
-  "url": "https://fowllabs.com/fable-5-2/knock-it-off/",
-  "maker_name": "argofowl",
-  "maker_handle": "argofowl",
+  "slug": "code-planet",
+  "name": "Code Planet",
+  "headline": "A whole planet in under 320KB of code",
+  "url": "https://planet.tokyoaivisuals.club/",
+  "maker_name": "KanaWorks_AI",
+  "maker_handle": "KanaWorks_AI",
   "made_with": [
    "Claude Fable 5.2"
   ],
   "tags": [
    "3D",
-   "Physics"
+   "Exploration",
+   "Flight"
   ],
-  "score": 7.8,
+  "score": 8.2,
   "released": "2026-11-14T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/knock-it-off"
+  "vibegamer_url": "https://vibegamer.io/game/code-planet"
  },
  {
-  "slug": "pogo-riot",
-  "name": "Pogo Riot",
-  "headline": "A free-for-all FPS where you bounce on a pogo stick and aim at the same time",
-  "url": "https://www.spawn.co/@abbidabbi/pogo-riot",
-  "maker_name": "Abbi",
-  "maker_handle": "Pumpnasterr",
+  "slug": "aussie-outback-4x4",
+  "name": "Aussie Outback 4x4",
+  "headline": "Off-roading in the Australian bush on the author's own Rust + WebGPU engine: mud, creek crossings, rock crawling, diff locks, tyre pressure and dynamic weather",
+  "url": "https://rust4x4.com/",
+  "maker_name": "SamGCoder",
+  "maker_handle": "SamGCoder",
   "made_with": [
    "Claude Fable 5.2"
   ],
   "tags": [
    "3D",
-   "Shooter"
+   "Racing"
   ],
-  "score": 7.9,
+  "score": 7.7,
   "released": "2026-11-14T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/pogo-riot"
+  "vibegamer_url": "https://vibegamer.io/game/aussie-outback-4x4"
  },
  {
   "slug": "probe-gravity",
@@ -3297,6 +3337,19 @@
   "score": 7.7,
   "released": "2026-11-14T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/clanker-racing"
+ },
+ {
+  "slug": "nanning-online",
+  "name": "Nanning Online",
+  "headline": "The Nanning Online preview is live.",
+  "url": "https://nanningol.com/",
+  "maker_name": null,
+  "maker_handle": null,
+  "made_with": [],
+  "tags": [],
+  "score": null,
+  "released": "2026-11-23T16:53:02.291687+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/nanning-online"
  },
  {
   "slug": "starfall-moba",
@@ -3336,6 +3389,149 @@
   "vibegamer_url": "https://vibegamer.io/game/pelican-bicycle-3d"
  },
  {
+  "slug": "thunder-valley-dino-chase",
+  "name": "Thunder Valley dino chase",
+  "headline": "Vanilla JS with its own WebGL renderer; dinos, trees and terrain are stacked 2D pixel slices",
+  "url": "https://loktar00.github.io/llm-test-pages/fable52-dino-chase/",
+  "maker_name": "loktar00",
+  "maker_handle": "loktar00",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "2D"
+  ],
+  "score": 8,
+  "released": "2026-11-13T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/thunder-valley-dino-chase"
+ },
+ {
+  "slug": "cozy-bakery",
+  "name": "Cozy Bakery",
+  "headline": "An Overcooked-style co-op cooking game around Portugal, 1 to 4 players, works on mobile",
+  "url": "https://cozybakery.vercel.app",
+  "maker_name": "goncalo_canhoto",
+  "maker_handle": "goncalo_canhoto",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Cosy"
+  ],
+  "score": 7.5,
+  "released": "2026-11-13T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/cozy-bakery"
+ },
+ {
+  "slug": "ancient-babylon-600-bc",
+  "name": "Ancient Babylon, 600 BC",
+  "headline": "Babylon rebuilt from historical documents and plans it found itself, over an 8-hour run",
+  "url": "https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28",
+  "maker_name": "literallydenis",
+  "maker_handle": "literallydenis",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Exploration",
+   "Runner"
+  ],
+  "score": 8.6,
+  "released": "2026-11-13T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/ancient-babylon-600-bc"
+ },
+ {
+  "slug": "save-the-world",
+  "name": "Save the World",
+  "headline": "It built the street, found the 3D models and sounds, and played the game itself to record the trailer",
+  "url": "https://save-the-world-fable.vercel.app/",
+  "maker_name": "global_techgirl",
+  "maker_handle": "global_techgirl",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 7.9,
+  "released": "2026-11-13T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/save-the-world"
+ },
+ {
+  "slug": "coloured-pencil",
+  "name": "Coloured Pencil",
+  "headline": "A colored-pencil game slice; every surface's shading and the whole town are code",
+  "url": "https://patch.gg/blendi/coloured-pencil",
+  "maker_name": "Blendi",
+  "maker_handle": "BlendiByl",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 8.6,
+  "released": "2026-11-13T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/coloured-pencil"
+ },
+ {
+  "slug": "hitofude",
+  "name": "HITOFUDE",
+  "headline": "Every frame brushed in code as sumi ink on paper",
+  "url": "https://shubhu121.github.io/hitdude/play/",
+  "maker_name": "positronx_",
+  "maker_handle": "positronx_",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Runner"
+  ],
+  "score": 7.8,
+  "released": "2026-11-13T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/hitofude"
+ },
+ {
+  "slug": "pixel-art-to-3d-world",
+  "name": "Pixel art to 3D world",
+  "headline": "A piece of pixel art turned into an interactive 3D world, with a whale showing how it was made",
+  "url": "https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB",
+  "maker_name": "dfeinition",
+  "maker_handle": "dfeinition",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Exploration",
+   "Flight"
+  ],
+  "score": 7.6,
+  "released": "2026-11-13T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/pixel-art-to-3d-world"
+ },
+ {
+  "slug": "ignition-fighting-game",
+  "name": "IGNITION fighting game",
+  "headline": "A 2D fighting game with generated voices and sound, play logs and replays",
+  "url": "https://fighting-game-ignition.saito-931.workers.dev",
+  "maker_name": "s_shigel",
+  "maker_handle": "s_shigel",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "Combat",
+   "2D"
+  ],
+  "score": 7.4,
+  "released": "2026-11-13T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/ignition-fighting-game"
+ },
+ {
   "slug": "kestrel-head-solstice-racing",
   "name": "Kestrel Head — Solstice racing",
   "headline": "Built on the author's own Rust + WebGPU engine: a Porsche 992 GT3 R modeled in Blender and a 3 km island circuit",
@@ -3352,42 +3548,6 @@
   "score": 7.8,
   "released": "2026-11-13T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/kestrel-head-solstice-racing"
- },
- {
-  "slug": "cozy-lisbon",
-  "name": "Cozy Lisbon",
-  "headline": "A one-prompt cozy game about a little plane flying over Lisbon",
-  "url": "https://cozylisbon.vercel.app",
-  "maker_name": "goncalo_canhoto",
-  "maker_handle": "goncalo_canhoto",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Flight",
-   "Cosy"
-  ],
-  "score": 8.2,
-  "released": "2026-11-13T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/cozy-lisbon"
- },
- {
-  "slug": "thunder-valley-dino-chase",
-  "name": "Thunder Valley dino chase",
-  "headline": "Vanilla JS with its own WebGL renderer; dinos, trees and terrain are stacked 2D pixel slices",
-  "url": "https://loktar00.github.io/llm-test-pages/fable52-dino-chase/",
-  "maker_name": "loktar00",
-  "maker_handle": "loktar00",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "2D"
-  ],
-  "score": 8,
-  "released": "2026-11-13T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/thunder-valley-dino-chase"
  },
  {
   "slug": "banana-mine-rush",
@@ -3443,41 +3603,6 @@
   "vibegamer_url": "https://vibegamer.io/game/survivors"
  },
  {
-  "slug": "save-the-world",
-  "name": "Save the World",
-  "headline": "It built the street, found the 3D models and sounds, and played the game itself to record the trailer",
-  "url": "https://save-the-world-fable.vercel.app/",
-  "maker_name": "global_techgirl",
-  "maker_handle": "global_techgirl",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
-  ],
-  "score": 7.9,
-  "released": "2026-11-13T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/save-the-world"
- },
- {
-  "slug": "hitofude",
-  "name": "HITOFUDE",
-  "headline": "Every frame brushed in code as sumi ink on paper",
-  "url": "https://shubhu121.github.io/hitdude/play/",
-  "maker_name": "positronx_",
-  "maker_handle": "positronx_",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Runner"
-  ],
-  "score": 7.8,
-  "released": "2026-11-13T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/hitofude"
- },
- {
   "slug": "thermal",
   "name": "Thermal",
   "headline": "A little hang glider game: ride the thermals and reach the target",
@@ -3514,48 +3639,10 @@
   "vibegamer_url": "https://vibegamer.io/game/harbor-lights-grand-prix"
  },
  {
-  "slug": "pixel-art-to-3d-world",
-  "name": "Pixel art to 3D world",
-  "headline": "A piece of pixel art turned into an interactive 3D world, with a whale showing how it was made",
-  "url": "https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB",
-  "maker_name": "dfeinition",
-  "maker_handle": "dfeinition",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Exploration",
-   "Flight"
-  ],
-  "score": 7.6,
-  "released": "2026-11-13T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/pixel-art-to-3d-world"
- },
- {
-  "slug": "ancient-babylon-600-bc",
-  "name": "Ancient Babylon, 600 BC",
-  "headline": "Babylon rebuilt from historical documents and plans it found itself, over an 8-hour run",
-  "url": "https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28",
-  "maker_name": "literallydenis",
-  "maker_handle": "literallydenis",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Exploration",
-   "Runner"
-  ],
-  "score": 8.6,
-  "released": "2026-11-13T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/ancient-babylon-600-bc"
- },
- {
-  "slug": "cozy-bakery",
-  "name": "Cozy Bakery",
-  "headline": "An Overcooked-style co-op cooking game around Portugal, 1 to 4 players, works on mobile",
-  "url": "https://cozybakery.vercel.app",
+  "slug": "cozy-lisbon",
+  "name": "Cozy Lisbon",
+  "headline": "A one-prompt cozy game about a little plane flying over Lisbon",
+  "url": "https://cozylisbon.vercel.app",
   "maker_name": "goncalo_canhoto",
   "maker_handle": "goncalo_canhoto",
   "made_with": [
@@ -3563,46 +3650,12 @@
   ],
   "tags": [
    "3D",
+   "Flight",
    "Cosy"
   ],
-  "score": 7.5,
+  "score": 8.2,
   "released": "2026-11-13T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/cozy-bakery"
- },
- {
-  "slug": "ignition-fighting-game",
-  "name": "IGNITION fighting game",
-  "headline": "A 2D fighting game with generated voices and sound, play logs and replays",
-  "url": "https://fighting-game-ignition.saito-931.workers.dev",
-  "maker_name": "s_shigel",
-  "maker_handle": "s_shigel",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "Combat",
-   "2D"
-  ],
-  "score": 7.4,
-  "released": "2026-11-13T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/ignition-fighting-game"
- },
- {
-  "slug": "coloured-pencil",
-  "name": "Coloured Pencil",
-  "headline": "A colored-pencil game slice; every surface's shading and the whole town are code",
-  "url": "https://patch.gg/blendi/coloured-pencil",
-  "maker_name": "Blendi",
-  "maker_handle": "BlendiByl",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
-  ],
-  "score": 8.6,
-  "released": "2026-11-13T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/coloured-pencil"
+  "vibegamer_url": "https://vibegamer.io/game/cozy-lisbon"
  },
  {
   "slug": "kumokiri",
@@ -3736,76 +3789,56 @@
   "vibegamer_url": "https://vibegamer.io/game/abyssal-garden"
  },
  {
-  "slug": "pine-hollow-a-living-ski-hill",
-  "name": "Pine Hollow — a living ski hill",
-  "headline": "A 3D ski hill based on an old 2D version, asked to \"give it some character\"",
-  "url": "https://loktar00.github.io/pine-hollow/",
+  "slug": "giant-leap",
+  "name": "Giant Leap",
+  "headline": "Jump from the Moon to the Earth",
+  "url": "https://giant-leap.vercel.app",
+  "maker_name": "handsher_NGU",
+  "maker_handle": "handsher_NGU",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 7.6,
+  "released": "2026-11-12T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/giant-leap"
+ },
+ {
+  "slug": "lanternfall",
+  "name": "LANTERNFALL",
+  "headline": "The whole game — animations, models, everything — generated by Fable",
+  "url": "https://loktar00.github.io/lanternfall/",
   "maker_name": "loktar00",
   "maker_handle": "loktar00",
   "made_with": [
    "Claude Fable 5.2"
   ],
   "tags": [
-   "3D",
-   "Exploration",
-   "Sports"
+   "3D"
   ],
-  "score": 7.6,
+  "score": 8.6,
   "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/pine-hollow-a-living-ski-hill"
+  "vibegamer_url": "https://vibegamer.io/game/lanternfall"
  },
  {
-  "slug": "dread-district",
-  "name": "Dread & District",
-  "headline": "A fantasy transport sim \"with heart\": one vague paragraph, then a bunch of agents arguing about art, lore and jokes",
-  "url": "https://dread-and-district.netlify.app",
-  "maker_name": "Ethan Mollick",
-  "maker_handle": "emollick",
+  "slug": "jerusalem-at-passover",
+  "name": "Jerusalem at Passover",
+  "headline": "An immersive, historically grounded 3D Jerusalem built with Blender",
+  "url": "https://fable-jerusalem.vercel.app/",
+  "maker_name": "kplikethebird",
+  "maker_handle": "kplikethebird",
   "made_with": [
    "Claude Fable 5.2"
   ],
   "tags": [
    "3D",
-   "Sports",
-   "Horror"
-  ],
-  "score": 8.3,
-  "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/dread-district"
- },
- {
-  "slug": "farewell-light",
-  "name": "Farewell Light",
-  "headline": "A gameplay demo made overnight",
-  "url": "https://sael.net/demo/farewell-light/",
-  "maker_name": "RyanSael",
-  "maker_handle": "RyanSael",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
+   "Exploration"
   ],
   "score": 7.8,
   "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/farewell-light"
- },
- {
-  "slug": "chairmageddon",
-  "name": "Chairmageddon",
-  "headline": "Destroy a peaceful town of blue chairs",
-  "url": "https://fowllabs.com/fable-5-2/chairmageddon/",
-  "maker_name": "argofowl",
-  "maker_handle": "argofowl",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
-  ],
-  "score": 7.8,
-  "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/chairmageddon"
+  "vibegamer_url": "https://vibegamer.io/game/jerusalem-at-passover"
  },
  {
   "slug": "bay-area-through-time",
@@ -3827,24 +3860,6 @@
   "vibegamer_url": "https://vibegamer.io/game/bay-area-through-time"
  },
  {
-  "slug": "impossible-spaces",
-  "name": "Impossible Spaces",
-  "headline": "A trippy \"impossible spaces\" experience",
-  "url": "https://patch.gg/blendi/impossible-spaces",
-  "maker_name": "BlendiByl",
-  "maker_handle": "BlendiByl",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Exploration"
-  ],
-  "score": 8.1,
-  "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/impossible-spaces"
- },
- {
   "slug": "a-claude-demo-you-can-walk-into",
   "name": "A Claude demo you can walk into",
   "headline": "Inspired by @rileybrown: walk in and sit at any computer",
@@ -3861,6 +3876,78 @@
   "score": 8.2,
   "released": "2026-11-12T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/a-claude-demo-you-can-walk-into"
+ },
+ {
+  "slug": "fable-5-2-fps-repro",
+  "name": "Fable 5.2 FPS Repro",
+  "headline": "Four single-file 3D FPS demos: models, sound and textures all in code",
+  "url": "https://wquguru.github.io/fable52-fps-repro/",
+  "maker_name": "wquguru",
+  "maker_handle": "wquguru",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Shooter"
+  ],
+  "score": 8.1,
+  "released": "2026-11-12T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/fable-5-2-fps-repro"
+ },
+ {
+  "slug": "farewell-light",
+  "name": "Farewell Light",
+  "headline": "A gameplay demo made overnight",
+  "url": "https://sael.net/demo/farewell-light/",
+  "maker_name": "RyanSael",
+  "maker_handle": "RyanSael",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 7.8,
+  "released": "2026-11-12T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/farewell-light"
+ },
+ {
+  "slug": "dread-district",
+  "name": "Dread & District",
+  "headline": "A fantasy transport sim \"with heart\": one vague paragraph, then a bunch of agents arguing about art, lore and jokes",
+  "url": "https://dread-and-district.netlify.app",
+  "maker_name": "Ethan Mollick",
+  "maker_handle": "emollick",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Sports",
+   "Horror"
+  ],
+  "score": 8.3,
+  "released": "2026-11-12T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/dread-district"
+ },
+ {
+  "slug": "lumina-zombies",
+  "name": "Lumina Zombies",
+  "headline": "A brand-new map with easter eggs in a few prompts, plus upgrades that halved hardware demand and latency on the other two maps",
+  "url": "https://luminazombies.com/",
+  "maker_name": "LuminaBench",
+  "maker_handle": "LuminaBench",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Shooter"
+  ],
+  "score": 8.1,
+  "released": "2026-11-12T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/lumina-zombies"
  },
  {
   "slug": "galaxy-dive",
@@ -3882,164 +3969,24 @@
   "vibegamer_url": "https://vibegamer.io/game/galaxy-dive"
  },
  {
-  "slug": "rome-ad-320",
-  "name": "Rome, AD 320",
-  "headline": "One prompt, Fable 5.2 (Max) running overnight, $2,618",
-  "url": "https://fable-rome.surge.sh/",
-  "maker_name": "petergostev",
-  "maker_handle": "petergostev",
+  "slug": "open-world-kart-adventure",
+  "name": "Open-world kart adventure",
+  "headline": "One-shot in three hours; the main quest takes about half an hour",
+  "url": "https://claude.ai/artifact/FpdQ81sJs1KiV1a6JCY4jj",
+  "maker_name": "realWeZZard",
+  "maker_handle": "realWeZZard",
   "made_with": [
    "Claude Fable 5.2"
   ],
   "tags": [
    "3D",
-   "Exploration"
-  ],
-  "score": 8.6,
-  "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/rome-ad-320"
- },
- {
-  "slug": "lanternfall",
-  "name": "LANTERNFALL",
-  "headline": "The whole game — animations, models, everything — generated by Fable",
-  "url": "https://loktar00.github.io/lanternfall/",
-  "maker_name": "loktar00",
-  "maker_handle": "loktar00",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
-  ],
-  "score": 8.6,
-  "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/lanternfall"
- },
- {
-  "slug": "giant-leap",
-  "name": "Giant Leap",
-  "headline": "Jump from the Moon to the Earth",
-  "url": "https://giant-leap.vercel.app",
-  "maker_name": "handsher_NGU",
-  "maker_handle": "handsher_NGU",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
+   "Racing",
+   "Adventure",
+   "Open world"
   ],
   "score": 7.6,
   "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/giant-leap"
- },
- {
-  "slug": "lumina-zombies",
-  "name": "Lumina Zombies",
-  "headline": "A brand-new map with easter eggs in a few prompts, plus upgrades that halved hardware demand and latency on the other two maps",
-  "url": "https://luminazombies.com/",
-  "maker_name": "LuminaBench",
-  "maker_handle": "LuminaBench",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Shooter"
-  ],
-  "score": 8.1,
-  "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/lumina-zombies"
- },
- {
-  "slug": "fable-5-2-fps-repro",
-  "name": "Fable 5.2 FPS Repro",
-  "headline": "Four single-file 3D FPS demos: models, sound and textures all in code",
-  "url": "https://wquguru.github.io/fable52-fps-repro/",
-  "maker_name": "wquguru",
-  "maker_handle": "wquguru",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Shooter"
-  ],
-  "score": 8.1,
-  "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/fable-5-2-fps-repro"
- },
- {
-  "slug": "midnight-pass",
-  "name": "Midnight Pass",
-  "headline": "One HTML file, 603 lines, zero assets: real drift physics, a generated mountain, synthesized engine and tyres",
-  "url": "https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL",
-  "maker_name": "andreysuperior",
-  "maker_handle": "andreysuperior",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Physics"
-  ],
-  "score": 7.8,
-  "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/midnight-pass"
- },
- {
-  "slug": "ringfall",
-  "name": "Ringfall",
-  "headline": "A Destiny-inspired FPS",
-  "url": "https://patch.gg/games/rehan/ringfall",
-  "maker_name": "rehan_shei",
-  "maker_handle": "rehan_shei",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Shooter"
-  ],
-  "score": 7.9,
-  "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/ringfall"
- },
- {
-  "slug": "first-crush",
-  "name": "First Crush",
-  "headline": "A winemaking game: scrub the vat, crush 250 kg of fruit, read the hydrometer, pick a yeast — and it explains why",
-  "url": "https://frontier.every.to/experiments/first-crush",
-  "maker_name": "kieranklaassen",
-  "maker_handle": "kieranklaassen",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Runner"
-  ],
-  "score": 8.3,
-  "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/first-crush"
- },
- {
-  "slug": "fighting-game-plays-on-phones",
-  "name": "Fighting game (plays on phones)",
-  "headline": "A fighting game iterated overnight, playable in a mobile browser",
-  "url": "https://claude.ai/artifact/QvSjL7Hexf3nKdUP9Zerr7",
-  "maker_name": "s_shigel",
-  "maker_handle": "s_shigel",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Combat"
-  ],
-  "score": 7.7,
-  "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/fighting-game-plays-on-phones"
+  "vibegamer_url": "https://vibegamer.io/game/open-world-kart-adventure"
  },
  {
   "slug": "evensong",
@@ -4060,12 +4007,47 @@
   "vibegamer_url": "https://vibegamer.io/game/evensong"
  },
  {
-  "slug": "jerusalem-at-passover",
-  "name": "Jerusalem at Passover",
-  "headline": "An immersive, historically grounded 3D Jerusalem built with Blender",
-  "url": "https://fable-jerusalem.vercel.app/",
-  "maker_name": "kplikethebird",
-  "maker_handle": "kplikethebird",
+  "slug": "chairmageddon",
+  "name": "Chairmageddon",
+  "headline": "Destroy a peaceful town of blue chairs",
+  "url": "https://fowllabs.com/fable-5-2/chairmageddon/",
+  "maker_name": "argofowl",
+  "maker_handle": "argofowl",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 7.8,
+  "released": "2026-11-12T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/chairmageddon"
+ },
+ {
+  "slug": "midnight-pass",
+  "name": "Midnight Pass",
+  "headline": "One HTML file, 603 lines, zero assets: real drift physics, a generated mountain, synthesized engine and tyres",
+  "url": "https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL",
+  "maker_name": "andreysuperior",
+  "maker_handle": "andreysuperior",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Physics"
+  ],
+  "score": 7.8,
+  "released": "2026-11-12T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/midnight-pass"
+ },
+ {
+  "slug": "impossible-spaces",
+  "name": "Impossible Spaces",
+  "headline": "A trippy \"impossible spaces\" experience",
+  "url": "https://patch.gg/blendi/impossible-spaces",
+  "maker_name": "BlendiByl",
+  "maker_handle": "BlendiByl",
   "made_with": [
    "Claude Fable 5.2"
   ],
@@ -4073,29 +4055,100 @@
    "3D",
    "Exploration"
   ],
-  "score": 7.8,
+  "score": 8.1,
   "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/jerusalem-at-passover"
+  "vibegamer_url": "https://vibegamer.io/game/impossible-spaces"
  },
  {
-  "slug": "open-world-kart-adventure",
-  "name": "Open-world kart adventure",
-  "headline": "One-shot in three hours; the main quest takes about half an hour",
-  "url": "https://claude.ai/artifact/FpdQ81sJs1KiV1a6JCY4jj",
-  "maker_name": "realWeZZard",
-  "maker_handle": "realWeZZard",
+  "slug": "pine-hollow-a-living-ski-hill",
+  "name": "Pine Hollow — a living ski hill",
+  "headline": "A 3D ski hill based on an old 2D version, asked to \"give it some character\"",
+  "url": "https://loktar00.github.io/pine-hollow/",
+  "maker_name": "loktar00",
+  "maker_handle": "loktar00",
   "made_with": [
    "Claude Fable 5.2"
   ],
   "tags": [
    "3D",
-   "Racing",
-   "Adventure",
-   "Open world"
+   "Exploration",
+   "Sports"
   ],
   "score": 7.6,
   "released": "2026-11-12T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/open-world-kart-adventure"
+  "vibegamer_url": "https://vibegamer.io/game/pine-hollow-a-living-ski-hill"
+ },
+ {
+  "slug": "first-crush",
+  "name": "First Crush",
+  "headline": "A winemaking game: scrub the vat, crush 250 kg of fruit, read the hydrometer, pick a yeast — and it explains why",
+  "url": "https://frontier.every.to/experiments/first-crush",
+  "maker_name": "kieranklaassen",
+  "maker_handle": "kieranklaassen",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Runner"
+  ],
+  "score": 8.3,
+  "released": "2026-11-12T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/first-crush"
+ },
+ {
+  "slug": "rome-ad-320",
+  "name": "Rome, AD 320",
+  "headline": "One prompt, Fable 5.2 (Max) running overnight, $2,618",
+  "url": "https://fable-rome.surge.sh/",
+  "maker_name": "petergostev",
+  "maker_handle": "petergostev",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "score": 8.6,
+  "released": "2026-11-12T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/rome-ad-320"
+ },
+ {
+  "slug": "fighting-game-plays-on-phones",
+  "name": "Fighting game (plays on phones)",
+  "headline": "A fighting game iterated overnight, playable in a mobile browser",
+  "url": "https://claude.ai/artifact/QvSjL7Hexf3nKdUP9Zerr7",
+  "maker_name": "s_shigel",
+  "maker_handle": "s_shigel",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Combat"
+  ],
+  "score": 7.7,
+  "released": "2026-11-12T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/fighting-game-plays-on-phones"
+ },
+ {
+  "slug": "ringfall",
+  "name": "Ringfall",
+  "headline": "A Destiny-inspired FPS",
+  "url": "https://patch.gg/games/rehan/ringfall",
+  "maker_name": "rehan_shei",
+  "maker_handle": "rehan_shei",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Shooter"
+  ],
+  "score": 7.9,
+  "released": "2026-11-12T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/ringfall"
  },
  {
   "slug": "the-lost-storm",
@@ -4492,59 +4545,6 @@
   "vibegamer_url": "https://vibegamer.io/game/pelican-campus-quest"
  },
  {
-  "slug": "3d-sailing-ship",
-  "name": "3D Sailing Ship",
-  "headline": "Pure Three.js, no Blender or external assets",
-  "url": "https://claude.ai/artifact/7ge282etTXSS4edGFTFa85",
-  "maker_name": "marcthecreatorr",
-  "maker_handle": "marcthecreatorr",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Exploration"
-  ],
-  "score": 8,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/3d-sailing-ship"
- },
- {
-  "slug": "voxel-engine",
-  "name": "Voxel Engine",
-  "headline": "Built from a single prompt",
-  "url": "https://www.spawn.co/@mattshumer/voxel-engine",
-  "maker_name": "Matt Shumer",
-  "maker_handle": "mattshumer_",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
-  ],
-  "score": 8.6,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/voxel-engine"
- },
- {
-  "slug": "roost",
-  "name": "Roost",
-  "headline": "3D dirt-bike racing in one chat: 5 prompts, 15 minutes, 3 tracks, AI rivals, nitro, handlebar cam",
-  "url": "https://claude.ai/artifact/DLnFodkTwvawCNwurDmSZK?sk=5N6PtC07f1niB7h3I6clZQ",
-  "maker_name": "tejas3732",
-  "maker_handle": "tejas3732",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Racing"
-  ],
-  "score": 7.2,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/roost"
- },
- {
   "slug": "1-km-of-indiranagar",
   "name": "1 km² of Indiranagar",
   "headline": "A live 3D slice of Bengaluru from map data and one prompt",
@@ -4563,12 +4563,12 @@
   "vibegamer_url": "https://vibegamer.io/game/1-km-of-indiranagar"
  },
  {
-  "slug": "pirate-ship",
-  "name": "Pirate Ship",
-  "headline": "One shot, ~1.5 hours, ~35M tokens (~$34)",
-  "url": "https://tests.jazii.dev/",
-  "maker_name": "notjazii",
-  "maker_handle": "notjazii",
+  "slug": "3d-sailing-ship",
+  "name": "3D Sailing Ship",
+  "headline": "Pure Three.js, no Blender or external assets",
+  "url": "https://claude.ai/artifact/7ge282etTXSS4edGFTFa85",
+  "maker_name": "marcthecreatorr",
+  "maker_handle": "marcthecreatorr",
   "made_with": [
    "Claude Fable 5.2"
   ],
@@ -4578,166 +4578,7 @@
   ],
   "score": 8,
   "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/pirate-ship"
- },
- {
-  "slug": "vowlorn",
-  "name": "VOWLORN",
-  "headline": "A dark RPG where even the voices are code, deployed through Higgsfield MCP",
-  "url": "https://higgsfield.ai/@higgsfield.studio/blogs/fable-5-2-built-this-rpg-from-pure-code-here-s-every-step",
-  "maker_name": "Higgsfield AI",
-  "maker_handle": "higgsfield_ai",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Adventure"
-  ],
-  "score": 7.8,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/vowlorn"
- },
- {
-  "slug": "voxel-colosseum",
-  "name": "Voxel Colosseum",
-  "headline": "Walk around the ruined inner ring",
-  "url": "https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz",
-  "maker_name": "aGim_asf",
-  "maker_handle": "aGim_asf",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Exploration"
-  ],
-  "score": 7.5,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/voxel-colosseum"
- },
- {
-  "slug": "vippi",
-  "name": "Vippi",
-  "headline": "A COD-style shooter",
-  "url": "https://vippi.vercel.app/",
-  "maker_name": "Shrit1401",
-  "maker_handle": "Shrit1401",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Shooter"
-  ],
-  "score": 6.9,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/vippi"
- },
- {
-  "slug": "a-hamlet-on-a-giant-snail",
-  "name": "A Hamlet on a Giant Snail",
-  "headline": "\"Bring a 3D castle to life in an HTML file.\" Hand-written WebGL2, no libraries, ~5,500 trees, day/night cycle",
-  "url": "https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN",
-  "maker_name": "L34342Lin",
-  "maker_handle": "L34342Lin",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Exploration"
-  ],
-  "score": 6.8,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/a-hamlet-on-a-giant-snail"
- },
- {
-  "slug": "cloud-stunt-3d",
-  "name": "Cloud Stunt 3D",
-  "headline": "Generated in 30 minutes; an optimized \"golden\" version is linked too",
-  "url": "https://finderchangchang.github.io/cloud-stunt-3d/",
-  "maker_name": "jev_chat",
-  "maker_handle": "jev_chat",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
-  ],
-  "score": 8.4,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/cloud-stunt-3d"
- },
- {
-  "slug": "childhood-rug-racer",
-  "name": "Childhood Rug Racer",
-  "headline": "A racing game on your childhood play rug, same prompt as GPT-6.2 Sol",
-  "url": "https://noclipepe.pages.dev/rug/",
-  "maker_name": "noclipepe",
-  "maker_handle": "noclipepe",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Racing"
-  ],
-  "score": 8.4,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/childhood-rug-racer"
- },
- {
-  "slug": "tilt-labyrinth",
-  "name": "Tilt Labyrinth",
-  "headline": "A wooden ball maze in 2,000 lines of three.js",
-  "url": "https://blog.silencestar.com/posts/tilt-labyrinth/play/",
-  "maker_name": "mylifcc",
-  "maker_handle": "mylifcc",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D",
-   "Puzzle"
-  ],
-  "score": 7.7,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/tilt-labyrinth"
- },
- {
-  "slug": "rambo-dino",
-  "name": "Rambo Dino",
-  "headline": "The Chrome T-Rex game, rebuilt",
-  "url": "https://noclipepe.pages.dev/dino",
-  "maker_name": "noclipepe",
-  "maker_handle": "noclipepe",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
-  ],
-  "score": 8.2,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/rambo-dino"
- },
- {
-  "slug": "silicon-seduction",
-  "name": "Silicon Seduction",
-  "headline": "Can you make it out without being seduced?",
-  "url": "https://silicon-seduction.vercel.app/",
-  "maker_name": "ZryMiller",
-  "maker_handle": "ZryMiller",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
-  ],
-  "score": 7.4,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/silicon-seduction"
+  "vibegamer_url": "https://vibegamer.io/game/3d-sailing-ship"
  },
  {
   "slug": "frontline-warfare-deathmatch",
@@ -4758,56 +4599,40 @@
   "vibegamer_url": "https://vibegamer.io/game/frontline-warfare-deathmatch"
  },
  {
-  "slug": "portals-endless-worlds",
-  "name": "Portals: Endless Worlds",
-  "headline": "25,000 agents built 450+ code-only 3D worlds inspired by books, art and places, linked by portals you drift through",
-  "url": "https://portals-endless-worlds.netlify.app/",
-  "maker_name": "Ethan Mollick",
-  "maker_handle": "emollick",
-  "made_with": [
-   "Claude Fable 5.2"
-  ],
-  "tags": [
-   "3D"
-  ],
-  "score": 8.6,
-  "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/portals-endless-worlds"
- },
- {
-  "slug": "four-character-fighting-game",
-  "name": "Four-character fighting game",
-  "headline": "Fable 5.2 + ElevenLabs MCP for 39 voice and sound clips, including an announcer it designed",
-  "url": "https://claude.ai/artifact/1QGGhB68jMCjjjeeKtKNUo",
-  "maker_name": "promodenstudio",
-  "maker_handle": "promodenstudio",
+  "slug": "a-hamlet-on-a-giant-snail",
+  "name": "A Hamlet on a Giant Snail",
+  "headline": "\"Bring a 3D castle to life in an HTML file.\" Hand-written WebGL2, no libraries, ~5,500 trees, day/night cycle",
+  "url": "https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN",
+  "maker_name": "L34342Lin",
+  "maker_handle": "L34342Lin",
   "made_with": [
    "Claude Fable 5.2"
   ],
   "tags": [
    "3D",
-   "Combat"
+   "Exploration"
   ],
-  "score": 7.1,
+  "score": 6.8,
   "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/four-character-fighting-game"
+  "vibegamer_url": "https://vibegamer.io/game/a-hamlet-on-a-giant-snail"
  },
  {
-  "slug": "stray-cat",
-  "name": "Stray Cat",
-  "headline": "Rescue kittens, hiss at dogs, yowl at an old tomcat",
-  "url": "https://claude.ai/artifact/4nPXUKJjQWNsZEHVNmXXCt",
-  "maker_name": "aimikoda",
-  "maker_handle": "aimikoda",
+  "slug": "tilt-labyrinth",
+  "name": "Tilt Labyrinth",
+  "headline": "A wooden ball maze in 2,000 lines of three.js",
+  "url": "https://blog.silencestar.com/posts/tilt-labyrinth/play/",
+  "maker_name": "mylifcc",
+  "maker_handle": "mylifcc",
   "made_with": [
    "Claude Fable 5.2"
   ],
   "tags": [
-   "3D"
+   "3D",
+   "Puzzle"
   ],
-  "score": 7.8,
+  "score": 7.7,
   "released": "2026-11-10T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/stray-cat"
+  "vibegamer_url": "https://vibegamer.io/game/tilt-labyrinth"
  },
  {
   "slug": "feed-the-backrooms",
@@ -4828,6 +4653,76 @@
   "vibegamer_url": "https://vibegamer.io/game/feed-the-backrooms"
  },
  {
+  "slug": "silicon-seduction",
+  "name": "Silicon Seduction",
+  "headline": "Can you make it out without being seduced?",
+  "url": "https://silicon-seduction.vercel.app/",
+  "maker_name": "ZryMiller",
+  "maker_handle": "ZryMiller",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 7.4,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/silicon-seduction"
+ },
+ {
+  "slug": "voxel-engine",
+  "name": "Voxel Engine",
+  "headline": "Built from a single prompt",
+  "url": "https://www.spawn.co/@mattshumer/voxel-engine",
+  "maker_name": "Matt Shumer",
+  "maker_handle": "mattshumer_",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 8.6,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/voxel-engine"
+ },
+ {
+  "slug": "childhood-rug-racer",
+  "name": "Childhood Rug Racer",
+  "headline": "A racing game on your childhood play rug, same prompt as GPT-6.2 Sol",
+  "url": "https://noclipepe.pages.dev/rug/",
+  "maker_name": "noclipepe",
+  "maker_handle": "noclipepe",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Racing"
+  ],
+  "score": 8.4,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/childhood-rug-racer"
+ },
+ {
+  "slug": "vippi",
+  "name": "Vippi",
+  "headline": "A COD-style shooter",
+  "url": "https://vippi.vercel.app/",
+  "maker_name": "Shrit1401",
+  "maker_handle": "Shrit1401",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Shooter"
+  ],
+  "score": 6.9,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/vippi"
+ },
+ {
   "slug": "voxel-world-in-a-bottle",
   "name": "Voxel World in a Bottle",
   "headline": "30 minutes, $12.81",
@@ -4844,6 +4739,164 @@
   "score": 8.2,
   "released": "2026-11-10T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/voxel-world-in-a-bottle"
+ },
+ {
+  "slug": "voxel-colosseum",
+  "name": "Voxel Colosseum",
+  "headline": "Walk around the ruined inner ring",
+  "url": "https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz",
+  "maker_name": "aGim_asf",
+  "maker_handle": "aGim_asf",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "score": 7.5,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/voxel-colosseum"
+ },
+ {
+  "slug": "rambo-dino",
+  "name": "Rambo Dino",
+  "headline": "The Chrome T-Rex game, rebuilt",
+  "url": "https://noclipepe.pages.dev/dino",
+  "maker_name": "noclipepe",
+  "maker_handle": "noclipepe",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 8.2,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/rambo-dino"
+ },
+ {
+  "slug": "four-character-fighting-game",
+  "name": "Four-character fighting game",
+  "headline": "Fable 5.2 + ElevenLabs MCP for 39 voice and sound clips, including an announcer it designed",
+  "url": "https://claude.ai/artifact/1QGGhB68jMCjjjeeKtKNUo",
+  "maker_name": "promodenstudio",
+  "maker_handle": "promodenstudio",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Combat"
+  ],
+  "score": 7.1,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/four-character-fighting-game"
+ },
+ {
+  "slug": "cloud-stunt-3d",
+  "name": "Cloud Stunt 3D",
+  "headline": "Generated in 30 minutes; an optimized \"golden\" version is linked too",
+  "url": "https://finderchangchang.github.io/cloud-stunt-3d/",
+  "maker_name": "jev_chat",
+  "maker_handle": "jev_chat",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 8.4,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/cloud-stunt-3d"
+ },
+ {
+  "slug": "pirate-ship",
+  "name": "Pirate Ship",
+  "headline": "One shot, ~1.5 hours, ~35M tokens (~$34)",
+  "url": "https://tests.jazii.dev/",
+  "maker_name": "notjazii",
+  "maker_handle": "notjazii",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "score": 8,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/pirate-ship"
+ },
+ {
+  "slug": "stray-cat",
+  "name": "Stray Cat",
+  "headline": "Rescue kittens, hiss at dogs, yowl at an old tomcat",
+  "url": "https://claude.ai/artifact/4nPXUKJjQWNsZEHVNmXXCt",
+  "maker_name": "aimikoda",
+  "maker_handle": "aimikoda",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 7.8,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/stray-cat"
+ },
+ {
+  "slug": "roost",
+  "name": "Roost",
+  "headline": "3D dirt-bike racing in one chat: 5 prompts, 15 minutes, 3 tracks, AI rivals, nitro, handlebar cam",
+  "url": "https://claude.ai/artifact/DLnFodkTwvawCNwurDmSZK?sk=5N6PtC07f1niB7h3I6clZQ",
+  "maker_name": "tejas3732",
+  "maker_handle": "tejas3732",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Racing"
+  ],
+  "score": 7.2,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/roost"
+ },
+ {
+  "slug": "vowlorn",
+  "name": "VOWLORN",
+  "headline": "A dark RPG where even the voices are code, deployed through Higgsfield MCP",
+  "url": "https://higgsfield.ai/@higgsfield.studio/blogs/fable-5-2-built-this-rpg-from-pure-code-here-s-every-step",
+  "maker_name": "Higgsfield AI",
+  "maker_handle": "higgsfield_ai",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D",
+   "Adventure"
+  ],
+  "score": 7.8,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/vowlorn"
+ },
+ {
+  "slug": "portals-endless-worlds",
+  "name": "Portals: Endless Worlds",
+  "headline": "25,000 agents built 450+ code-only 3D worlds inspired by books, art and places, linked by portals you drift through",
+  "url": "https://portals-endless-worlds.netlify.app/",
+  "maker_name": "Ethan Mollick",
+  "maker_handle": "emollick",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "3D"
+  ],
+  "score": 8.6,
+  "released": "2026-11-10T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/portals-endless-worlds"
  },
  {
   "slug": "petalwake",
@@ -5627,25 +5680,6 @@
   "vibegamer_url": "https://vibegamer.io/game/hollow-station"
  },
  {
-  "slug": "duck-and-dash",
-  "name": "Duck & Dash",
-  "headline": "Lean, hop and squat in front of your webcam to run this one.",
-  "url": "https://play.nguyenquockhanh.com/",
-  "maker_name": "Khanh Nguyen",
-  "maker_handle": "khanhnqc",
-  "made_with": [
-   "Claude"
-  ],
-  "tags": [
-   "Webcam",
-   "Fitness",
-   "Runner"
-  ],
-  "score": 7,
-  "released": "2026-10-24T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/duck-and-dash"
- },
- {
   "slug": "alandys",
   "name": "Alandys",
   "headline": "A co-op roguelite with 16 raid bosses, built in 33 days and headed to Steam.",
@@ -5664,6 +5698,25 @@
   "score": 8,
   "released": "2026-10-24T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/alandys"
+ },
+ {
+  "slug": "duck-and-dash",
+  "name": "Duck & Dash",
+  "headline": "Lean, hop and squat in front of your webcam to run this one.",
+  "url": "https://play.nguyenquockhanh.com/",
+  "maker_name": "Khanh Nguyen",
+  "maker_handle": "khanhnqc",
+  "made_with": [
+   "Claude"
+  ],
+  "tags": [
+   "Webcam",
+   "Fitness",
+   "Runner"
+  ],
+  "score": 7,
+  "released": "2026-10-24T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/duck-and-dash"
  },
  {
   "slug": "genex-morrowind",
@@ -5778,22 +5831,6 @@
   "vibegamer_url": "https://vibegamer.io/game/body-cam"
  },
  {
-  "slug": "tesla-roadster-flight",
-  "name": "Roadster Flight Lab (AI Evolution Polska)",
-  "headline": "Take the flying Tesla Roadster for a spin, built in 24 hours.",
-  "url": "https://roadster.aievolutionpolska.pl/",
-  "maker_name": "Chris Tabasco",
-  "maker_handle": "aievolutionlabs",
-  "made_with": [],
-  "tags": [
-   "3D",
-   "Flight"
-  ],
-  "score": 6.8,
-  "released": "2026-10-18T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/tesla-roadster-flight"
- },
- {
   "slug": "teleoperator",
   "name": "Teleoperator",
   "headline": "Crazy Taxi meets Need for Speed in San Francisco, with your friends in the same room.",
@@ -5809,6 +5846,22 @@
   "score": 7.5,
   "released": "2026-10-18T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/teleoperator"
+ },
+ {
+  "slug": "tesla-roadster-flight",
+  "name": "Roadster Flight Lab (AI Evolution Polska)",
+  "headline": "Take the flying Tesla Roadster for a spin, built in 24 hours.",
+  "url": "https://roadster.aievolutionpolska.pl/",
+  "maker_name": "Chris Tabasco",
+  "maker_handle": "aievolutionlabs",
+  "made_with": [],
+  "tags": [
+   "3D",
+   "Flight"
+  ],
+  "score": 6.8,
+  "released": "2026-10-18T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/tesla-roadster-flight"
  },
  {
   "slug": "koalaball",
@@ -5829,6 +5882,25 @@
   "score": 7.6,
   "released": "2026-10-18T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/koalaball"
+ },
+ {
+  "slug": "tycoonist",
+  "name": "Tycoonist",
+  "headline": "Monopoly Deal in the browser for 2 to 5 players online.",
+  "url": "https://tycoonist.in/",
+  "maker_name": "Yug Patel",
+  "maker_handle": "yugpatel",
+  "made_with": [
+   "Claude Opus 5.5",
+   "ChatGPT Astra"
+  ],
+  "tags": [
+   "Card game",
+   "Multiplayer"
+  ],
+  "score": 6.8,
+  "released": "2026-10-17T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/tycoonist"
  },
  {
   "slug": "thrusty-car",
@@ -5883,25 +5955,6 @@
   "score": 7,
   "released": "2026-10-17T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/pendekar"
- },
- {
-  "slug": "tycoonist",
-  "name": "Tycoonist",
-  "headline": "Monopoly Deal in the browser for 2 to 5 players online.",
-  "url": "https://tycoonist.in/",
-  "maker_name": "Yug Patel",
-  "maker_handle": "yugpatel",
-  "made_with": [
-   "Claude Opus 5.5",
-   "ChatGPT Astra"
-  ],
-  "tags": [
-   "Card game",
-   "Multiplayer"
-  ],
-  "score": 6.8,
-  "released": "2026-10-17T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/tycoonist"
  },
  {
   "slug": "skyhop-3d-flying-car",
@@ -6021,25 +6074,6 @@
   "vibegamer_url": "https://vibegamer.io/game/desk-racer"
  },
  {
-  "slug": "blueline",
-  "name": "Blueline",
-  "headline": "Ice hockey built with Three.js, straight from your browser.",
-  "url": "https://playblueline.pages.dev/",
-  "maker_name": "Alex St. Louis",
-  "maker_handle": "AlexStLouis10",
-  "made_with": [
-   "Claude Opus 5.5"
-  ],
-  "tags": [
-   "3D",
-   "Sports",
-   "Hockey"
-  ],
-  "score": 7,
-  "released": "2026-10-13T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/blueline"
- },
- {
   "slug": "arsenal-zero",
   "name": "Arsenal Zero",
   "headline": "An idle military looter: send your operator on expeditions that run while you are away, open loot crates and build up a hideout.",
@@ -6073,6 +6107,25 @@
   "score": 7,
   "released": "2026-10-13T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/stormbreak"
+ },
+ {
+  "slug": "blueline",
+  "name": "Blueline",
+  "headline": "Ice hockey built with Three.js, straight from your browser.",
+  "url": "https://playblueline.pages.dev/",
+  "maker_name": "Alex St. Louis",
+  "maker_handle": "AlexStLouis10",
+  "made_with": [
+   "Claude Opus 5.5"
+  ],
+  "tags": [
+   "3D",
+   "Sports",
+   "Hockey"
+  ],
+  "score": 7,
+  "released": "2026-10-13T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/blueline"
  },
  {
   "slug": "the-little-prince-among-the-stars",
@@ -6154,42 +6207,20 @@
   "vibegamer_url": "https://vibegamer.io/game/bruce-lee-c64"
  },
  {
-  "slug": "schiffy-gold-run",
-  "name": "Schiffy – Gold Run!",
-  "headline": "A cute sunset platformer that plays on keyboard, controller or touch.",
-  "url": "https://schiffy-gold-run.schankara.chatgpt.site/",
-  "maker_name": "Schankara.ron",
-  "maker_handle": "_schankara_",
-  "made_with": [
-   "GPT Astra"
-  ],
+  "slug": "killer-bufo",
+  "name": "Killer Bufo",
+  "headline": "A party game made for a team offsite: one screen hosts, everyone joins with a code.",
+  "url": "https://killerbufo.com/",
+  "maker_name": "Justin Torre",
+  "maker_handle": "justinstorre",
+  "made_with": [],
   "tags": [
-   "2D",
-   "Runner",
-   "Memecoin"
+   "Party",
+   "Multiplayer"
   ],
-  "score": 6.3,
+  "score": 6.6,
   "released": "2026-10-07T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/schiffy-gold-run"
- },
- {
-  "slug": "crimsonline",
-  "name": "Crimsonline",
-  "headline": "A Crimsonland-style shooter with hundreds of monsters at 120 fps, even on phones.",
-  "url": "https://crimsonline.vercel.app/",
-  "maker_name": "AP",
-  "maker_handle": "_alexandrius",
-  "made_with": [
-   "React Native Skia"
-  ],
-  "tags": [
-   "2D",
-   "Shooter",
-   "Online"
-  ],
-  "score": 7.4,
-  "released": "2026-10-07T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/crimsonline"
+  "vibegamer_url": "https://vibegamer.io/game/killer-bufo"
  },
  {
   "slug": "dirtline",
@@ -6224,20 +6255,42 @@
   "vibegamer_url": "https://vibegamer.io/game/legend-of-asmongold"
  },
  {
-  "slug": "killer-bufo",
-  "name": "Killer Bufo",
-  "headline": "A party game made for a team offsite: one screen hosts, everyone joins with a code.",
-  "url": "https://killerbufo.com/",
-  "maker_name": "Justin Torre",
-  "maker_handle": "justinstorre",
-  "made_with": [],
-  "tags": [
-   "Party",
-   "Multiplayer"
+  "slug": "crimsonline",
+  "name": "Crimsonline",
+  "headline": "A Crimsonland-style shooter with hundreds of monsters at 120 fps, even on phones.",
+  "url": "https://crimsonline.vercel.app/",
+  "maker_name": "AP",
+  "maker_handle": "_alexandrius",
+  "made_with": [
+   "React Native Skia"
   ],
-  "score": 6.6,
+  "tags": [
+   "2D",
+   "Shooter",
+   "Online"
+  ],
+  "score": 7.4,
   "released": "2026-10-07T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/killer-bufo"
+  "vibegamer_url": "https://vibegamer.io/game/crimsonline"
+ },
+ {
+  "slug": "schiffy-gold-run",
+  "name": "Schiffy – Gold Run!",
+  "headline": "A cute sunset platformer that plays on keyboard, controller or touch.",
+  "url": "https://schiffy-gold-run.schankara.chatgpt.site/",
+  "maker_name": "Schankara.ron",
+  "maker_handle": "_schankara_",
+  "made_with": [
+   "GPT Astra"
+  ],
+  "tags": [
+   "2D",
+   "Runner",
+   "Memecoin"
+  ],
+  "score": 6.3,
+  "released": "2026-10-07T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/schiffy-gold-run"
  },
  {
   "slug": "skyfall",
@@ -6340,6 +6393,22 @@
   "vibegamer_url": "https://vibegamer.io/game/montanha-zero-day"
  },
  {
+  "slug": "kiko-quest",
+  "name": "Kiko Quest",
+  "headline": "Kids learn English by listening, speaking and playing.",
+  "url": "https://remix.gg/g/kiko-quest",
+  "maker_name": "MantisOnRemix",
+  "maker_handle": "mantisonremix",
+  "made_with": [],
+  "tags": [
+   "Educational",
+   "Kids"
+  ],
+  "score": 6.5,
+  "released": "2026-10-03T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/kiko-quest"
+ },
+ {
   "slug": "xrp-man",
   "name": "XRP-Man",
   "headline": "Pac-Man with an XRP twist: you play the validator.",
@@ -6357,20 +6426,20 @@
   "vibegamer_url": "https://vibegamer.io/game/xrp-man"
  },
  {
-  "slug": "kiko-quest",
-  "name": "Kiko Quest",
-  "headline": "Kids learn English by listening, speaking and playing.",
-  "url": "https://remix.gg/g/kiko-quest",
-  "maker_name": "MantisOnRemix",
-  "maker_handle": "mantisonremix",
+  "slug": "okada-driver",
+  "name": "Okada Driver: Ride Lagos",
+  "headline": "Subway Surfers on a Lagos okada: dodge danfos and potholes on Third Mainland Bridge.",
+  "url": "https://digimillennials.com/play/okada/",
+  "maker_name": "Peter Pearse-Elosia",
+  "maker_handle": "PeterPElosia_",
   "made_with": [],
   "tags": [
-   "Educational",
-   "Kids"
+   "Runner",
+   "Mobile-friendly"
   ],
-  "score": 6.5,
-  "released": "2026-10-03T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/kiko-quest"
+  "score": 6.8,
+  "released": "2026-10-01T12:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/okada-driver"
  },
  {
   "slug": "vibegaming-hub",
@@ -6387,22 +6456,6 @@
   "score": 6.8,
   "released": "2026-10-01T12:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/vibegaming-hub"
- },
- {
-  "slug": "okada-driver",
-  "name": "Okada Driver: Ride Lagos",
-  "headline": "Subway Surfers on a Lagos okada: dodge danfos and potholes on Third Mainland Bridge.",
-  "url": "https://digimillennials.com/play/okada/",
-  "maker_name": "Peter Pearse-Elosia",
-  "maker_handle": "PeterPElosia_",
-  "made_with": [],
-  "tags": [
-   "Runner",
-   "Mobile-friendly"
-  ],
-  "score": 6.8,
-  "released": "2026-10-01T12:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/okada-driver"
  },
  {
   "slug": "lagos-life",
