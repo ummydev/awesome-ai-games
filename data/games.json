@@ -768,23 +768,6 @@
   "vibegamer_url": "https://vibegamer.io/game/3d-sculpting-simulator"
  },
  {
-  "slug": "of-the-world",
-  "name": "Of The World",
-  "headline": "A boy finds a girl crying alone in the forest",
-  "url": "https://tuyoki.itch.io/of-the-world",
-  "maker_name": "Temmie Chang",
-  "maker_handle": "tuyoki",
-  "made_with": [],
-  "tags": [
-   "Adventure",
-   "Story",
-   "Retro"
-  ],
-  "score": 9.2,
-  "released": "2026-11-23T00:00:00+00:00",
-  "vibegamer_url": "https://vibegamer.io/game/of-the-world"
- },
- {
   "slug": "sake-noborimasu",
   "name": "Salmon, Upstream",
   "headline": "Race a salmon from the river mouth to its spawning grounds",
