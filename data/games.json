@@ -2451,6 +2451,26 @@
   "vibegamer_url": "https://vibegamer.io/game/solar"
  },
  {
+  "slug": "the-drift-off-inn",
+  "name": "The Drift-Off Inn",
+  "headline": "Follow the glow of guest-room windows through a snowy onsen courtyard",
+  "url": "https://www.sleeprooms.org/",
+  "maker_name": "Luz",
+  "maker_handle": null,
+  "made_with": [
+   "Codex"
+  ],
+  "tags": [
+   "3D",
+   "Cosy",
+   "Exploration",
+   "Simulation"
+  ],
+  "score": 8.8,
+  "released": "2026-11-17T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/the-drift-off-inn"
+ },
+ {
   "slug": "dusk-patrol",
   "name": "Dusk Patrol",
   "headline": "A pixel-art fighter-jet flying toy: steer a jet over autumn lake country at dusk, through pink clouds and low sun.",
