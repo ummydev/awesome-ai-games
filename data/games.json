@@ -17,6 +17,26 @@
   "vibegamer_url": "https://vibegamer.io/game/sillage"
  },
  {
+  "slug": "torchlight-depths",
+  "name": "Torchlight Depths",
+  "headline": "Follow the torchlight into the Damp Catacombs",
+  "url": "https://kevintngo.github.io/dungeon-game/",
+  "maker_name": "Kevin Ngo",
+  "maker_handle": "kevin_t_ngo",
+  "made_with": [
+   "Gemini 4 Neon"
+  ],
+  "tags": [
+   "Action",
+   "Exploration",
+   "Combat",
+   "Dark fantasy"
+  ],
+  "score": 8.6,
+  "released": "2026-11-24T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/torchlight-depths"
+ },
+ {
   "slug": "gta7-2",
   "name": "gta7",
   "headline": "gta7: a free browser game you can play online.",
@@ -711,6 +731,57 @@
   "vibegamer_url": "https://vibegamer.io/game/boom-arena"
  },
  {
+  "slug": "3d-sculpting-simulator",
+  "name": "3D Sculpting Simulator",
+  "headline": "Carve an L out of a block of marble",
+  "url": "https://llllll.games/games/chisel/",
+  "maker_name": "6🎮ゲームづくり！",
+  "maker_handle": "SixRods_llllll",
+  "made_with": [],
+  "tags": [
+   "Simulation",
+   "Puzzle",
+   "Sandbox"
+  ],
+  "score": 8.8,
+  "released": "2026-11-23T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/3d-sculpting-simulator"
+ },
+ {
+  "slug": "of-the-world",
+  "name": "Of The World",
+  "headline": "A boy finds a girl crying alone in the forest",
+  "url": "https://tuyoki.itch.io/of-the-world",
+  "maker_name": "Temmie Chang",
+  "maker_handle": "tuyoki",
+  "made_with": [],
+  "tags": [
+   "Adventure",
+   "Story",
+   "Retro"
+  ],
+  "score": 9.2,
+  "released": "2026-11-23T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/of-the-world"
+ },
+ {
+  "slug": "sake-noborimasu",
+  "name": "Salmon, Upstream",
+  "headline": "Race a salmon from the river mouth to its spawning grounds",
+  "url": "https://nkworks-games.com/sake-noborimasu/",
+  "maker_name": "N.K. Works",
+  "maker_handle": "vyaPudzd1E54661",
+  "made_with": [],
+  "tags": [
+   "Arcade",
+   "Action",
+   "Racing"
+  ],
+  "score": 8.4,
+  "released": "2026-11-23T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/sake-noborimasu"
+ },
+ {
   "slug": "dial-up-pong",
   "name": "Dial-Up Pong",
   "headline": "One ball, two phones and a dial-up chirp",
@@ -1006,6 +1077,23 @@
   "score": 8.2,
   "released": "2026-11-22T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/grow-up-with-lenamiu"
+ },
+ {
+  "slug": "orbit-rally",
+  "name": "Orbit Rally",
+  "headline": "Bend a shot around a planet and past the CPU",
+  "url": "https://spacepong.metalturtle.net/",
+  "maker_name": "metalturtle",
+  "maker_handle": "metalturtle297",
+  "made_with": [],
+  "tags": [
+   "Arcade",
+   "Physics",
+   "Space"
+  ],
+  "score": 8.3,
+  "released": "2026-11-22T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/orbit-rally"
  },
  {
   "slug": "thin-film",
@@ -1369,6 +1457,59 @@
   "score": 8.3,
   "released": "2026-11-21T00:00:00+00:00",
   "vibegamer_url": "https://vibegamer.io/game/atlantis"
+ },
+ {
+  "slug": "yoyo-survival",
+  "name": "Yoyo Survival",
+  "headline": "Clear a path through goblins with a charged yoyo throw",
+  "url": "https://app.usecrayon.ai/play/951dfd15-82b3-4af4-be4d-96ac83d23227",
+  "maker_name": "Tushar",
+  "maker_handle": "usecrayon",
+  "made_with": [
+   "Claude Fable 5.2"
+  ],
+  "tags": [
+   "Action",
+   "Roguelite",
+   "Arcade"
+  ],
+  "score": 8.2,
+  "released": "2026-11-21T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/yoyo-survival"
+ },
+ {
+  "slug": "wobbly-slime-bridge",
+  "name": "Wobbly Slime Bridge",
+  "headline": "Draw a bridge that bounces",
+  "url": "https://shjuno.itch.io/purun-slime-bridge",
+  "maker_name": "shjuno",
+  "maker_handle": "shjuno_",
+  "made_with": [],
+  "tags": [
+   "Physics",
+   "Puzzle",
+   "2D"
+  ],
+  "score": 8.4,
+  "released": "2026-11-21T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/wobbly-slime-bridge"
+ },
+ {
+  "slug": "saikyou-ken",
+  "name": "Forge the Strongest Sword",
+  "headline": "How sharp a sword can you make from a fish cake?",
+  "url": "https://mainichilabo.com/saikyou-ken/",
+  "maker_name": "まいにちらぼ (Mainichi Labo)",
+  "maker_handle": "mainichi_labo",
+  "made_with": [],
+  "tags": [
+   "Simulation",
+   "Arcade",
+   "3D"
+  ],
+  "score": 8.5,
+  "released": "2026-11-21T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/saikyou-ken"
  },
  {
   "slug": "planebench-flight-simulator",
