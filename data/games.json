@@ -1,5 +1,24 @@
 [
  {
+  "slug": "inu",
+  "name": "INU",
+  "headline": "Follow a blinking light through rain-soaked Shibuya",
+  "url": "https://inu.pplx.app/",
+  "maker_name": "Aravind Srinivas",
+  "maker_handle": "AravSrinivas",
+  "made_with": [
+   "Perplexity Computer"
+  ],
+  "tags": [
+   "Adventure",
+   "Exploration",
+   "3D"
+  ],
+  "score": null,
+  "released": "2026-11-24T16:52:41+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/inu"
+ },
+ {
   "slug": "brushwild",
   "name": "Brushwild",
   "headline": "Step out of Hearthmere into a world drawn in coloured pencil",
