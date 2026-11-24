@@ -696,6 +696,26 @@
   "vibegamer_url": "https://vibegamer.io/game/pixel-game-tycoon"
  },
  {
+  "slug": "the-scribble-king",
+  "name": "The Scribble King",
+  "headline": "Take an eraser to the doodles in your math homework",
+  "url": "https://the-scribble-king-4mdc.zai-ai.site/",
+  "maker_name": "Lou",
+  "maker_handle": "louszbd",
+  "made_with": [
+   "GLM"
+  ],
+  "tags": [
+   "FPS",
+   "3D",
+   "Shooter",
+   "Action"
+  ],
+  "score": 8.7,
+  "released": "2026-11-23T00:00:00+00:00",
+  "vibegamer_url": "https://vibegamer.io/game/the-scribble-king"
+ },
+ {
   "slug": "jelly-sub-the-great-dam-squeeze",
   "name": "Jelly Sub: The Great Dam Squeeze",
   "headline": "One enormous submarine, one very small hole",
