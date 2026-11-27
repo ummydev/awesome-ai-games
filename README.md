@@ -219,6 +219,7 @@ Updated 2026-11-25. Newest first in every section. A game is listed only if it i
 
 | Game | What it is | Maker | Model | Play |
 |---|---|---|---|---|
+| Cart Run | Escort a salt cart to the lift in 30 seconds and knock defenders off the track. | [Avoraz](https://avoraz.com/) | OpenAI Codex | [Play](https://tavoraz.github.io/The-Salt-Mine-3-Downloads/?via=vibegamer) |
 | [Galewatch Atlantico](https://vibegamer.io/game/galewatch-atlantico?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-games) | Explore a massive cargo container ship tossed by towering 3D storm waves and a sea-serpent leviathan, built with GPT-6.2 Astra, Blender and  | [Token Gremlin](https://x.com/TokenGremlin) | GPT-6.2 Astra | [Play](https://galewatch-atlantico.tokengremlin.chatgpt.site) |
 | [Outpost Racer](https://vibegamer.io/game/outpost-racer?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-games) | PS1-style retro 3D browser circuit racer with seven tracks and custom map support. | [shash7](https://x.com/shash7) | ChatGPT | [Play](https://outpostracer.com/) |
 | [Neon Canyon Run (GPT-6.2 Astra)](https://vibegamer.io/game/neon-canyon-run-gpt-6-2-astra?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-games) | A synthwave hover-bike runner toward a neon sunset, made by GPT-6.2 Astra from one prompt with no follow-ups: our side-by-side model test. | [VibeGamer](https://x.com/vibegamer) | GPT-6.2 Astra, Codex | [Play](https://cdn.vibegamer.io/play/neon-canyon-run/gpt-6-2-astra/index.html) |
